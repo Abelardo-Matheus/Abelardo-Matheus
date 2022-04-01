@@ -9,11 +9,11 @@
 <p align="center">
 ## Olá Sou Abelardo !!Cada vez mais antenado com prog e Ti ##.
   </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO">
-<div style="display: inline_block"><br>
   <p align="center">
    <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/161170383-b34aacd6-1d51-4446-91ce-a5eb7a947e1b.jpeg">
+  <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO">
+<div style="display: inline_block"><br>
   </p>
   <p align="center">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
