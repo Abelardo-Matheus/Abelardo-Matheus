@@ -55,7 +55,7 @@
 ## OUVINDO AGORA
 
 
-[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni?si=8b8fb72cb23e4e98)
+[<img src="https://abelardinspotify-abelardox.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni?si=a9b91b986afe487f)
 
 ----
 <br>
