@@ -1,8 +1,4 @@
-  
-<p align="center">
-  <img align="left" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://imgur.com/a/3ED9bvT">
-  <img align="right" alt="Fotoa_abelardo" height="150" style="border-radius:50px;" src="https://imgur.com/a/3ED9bvT">
-  </p>
+
 <p align="center">
 ### Olá Visitante 👋
 
@@ -16,6 +12,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO">
 <div style="display: inline_block"><br>
+  <p align="center">
+   <img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/161170383-b34aacd6-1d51-4446-91ce-a5eb7a947e1b.jpeg">
+  </p>
   <p align="center">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
