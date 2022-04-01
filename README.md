@@ -49,16 +49,7 @@
 
    <![Snake animation](https://github.com/AbelardoX/AbelardoX/blob/output/github-contribution-grid-snake.svg)>
   
-----
-<br>
-<p align="center">
-## OUVINDO AGORA
 
-
-[<img src="https://abelardinspotify-abelardox.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni?si=a9b91b986afe487f)
-
-----
-<br>
  </p>
 
 <!--
