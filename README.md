@@ -12,7 +12,7 @@
   <p align="center">
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/161176872-aea7b056-9beb-4f51-aff1-bcb118e399d9.jpg">
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO+....">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO+...">
 <div style="display: inline_block"><br>
   </p>
   <p align="center">
