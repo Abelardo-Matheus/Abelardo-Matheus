@@ -26,6 +26,7 @@
    <p align="center">
   <a href="https://github.com/AbelardoX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbelardoX&show_icons=true&theme=chartreuse-dark&custom_title=Abelardo GITHUB Status&title_color=00ff00&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardox&layout=compact&langs_count=7&theme=dracula&custom_title=Abelardo GITHUB Status&title_color=00ff00&theme=chartreuse-dark&show_icons=true"/>
     
 
 ----
