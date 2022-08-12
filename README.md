@@ -11,6 +11,8 @@
   </p>
   <p align="center">
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/184377834-51fc9cf3-4e61-467a-bae3-a898dac06c01.jpg">
+  </p>
+  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO...">
 <div style="display: inline_block"><br>
   </p>
