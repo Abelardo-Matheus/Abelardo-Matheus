@@ -10,7 +10,7 @@
 ## Meu nome e Abelardo!!Cada vez mais antenado com prog e Ti ##.
   </p>
   <p align="center">
-   <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/161176872-aea7b056-9beb-4f51-aff1-bcb118e399d9.jpg">
+   <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://github.com/AbelardoX/AbelardoX/issues/2#issue-1337281787">
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO...">
 <div style="display: inline_block"><br>
