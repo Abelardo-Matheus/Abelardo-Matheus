@@ -7,7 +7,7 @@
 
 
 <p align="center">
-## Olá Sou Abelardo !!Cada vez mais antenado com prog e Ti ##.
+## Meu nome e Abelardo!!Cada vez mais antenado com prog e Ti ##.
   </p>
   <p align="center">
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/161176872-aea7b056-9beb-4f51-aff1-bcb118e399d9.jpg">
