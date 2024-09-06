@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&text=%20Olá%20Visitante%20👋&fontAlignY=35&stroke=000000&strokeWidth=3"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&text=%20Olá%20Visitante%20👋&fontAlignY=35&stroke=000000&strokeWidth=3&theme=chartreuse-dark"/>
 
 
 
