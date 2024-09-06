@@ -11,8 +11,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/Abelardo-Matheus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+   
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/184377834-51fc9cf3-4e61-467a-bae3-a898dac06c01.jpg">
   </p>
   <p align="center">
@@ -42,7 +41,10 @@
   <a href="https://www.linkedin.com/in/m-abelardo-730185236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198096382060/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni?si=78b15637eeb84f10"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  
+
+ <p align="center">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
  
   </p>
 </div>  
