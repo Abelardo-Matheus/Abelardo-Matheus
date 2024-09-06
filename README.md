@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="[https://github.com/Abelardo-Matheus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6BD600&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Meu+nome+%C3%A9+Abelardo!!;Cada+vez+mais+antenado+com+prog+e+Ti+;____________________________________________)">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6BD600&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Meu+nome+%C3%A9+Abelardo!!;Cada+vez+mais+antenado+com+prog+e+Ti+;____________________________________________" alt="Typing SVG" /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Abelardo-Matheus">
