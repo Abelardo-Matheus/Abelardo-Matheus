@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=282c34&text=%20Olá%20Visitante%20👋&fontAlign=56&fontAlignY=35&animation=fadeIn&fontColor=6BD600"/>
 
 
-
-
-<p align="center">
+<div align="center"> 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6BD600&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Meu+nome+%C3%A9+Abelardo!!;Cada+vez+mais+antenado+com+prog+e+Ti+;____________________________________________)](https://git.io/typing-svg)
+
+</div>
+<p align="center">
+
   </p>
   <p align="center">
     <a href="https://github.com/Abelardo-Matheus">
