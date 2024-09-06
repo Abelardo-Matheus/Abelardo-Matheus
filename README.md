@@ -1,6 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&text=%20Olá%20Visitante%20👋&fontAlignY=35&stroke=000000&strokeWidth=3&fontColor=1111"/>
 
-<p align="center">
-### Olá Visitante 👋
 
 
     
@@ -54,17 +53,7 @@
 
  </p>
 
-<!--
-**AbelardoX/AbelardoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A3DCBE&fontAlignY=35&stroke=000000&strokeWidth=3&fontColor=1111&section=footer"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
