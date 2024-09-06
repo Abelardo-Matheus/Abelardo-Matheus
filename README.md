@@ -11,6 +11,8 @@
   </p>
   <p align="center">
     <a href="https://github.com/Abelardo-Matheus">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/184377834-51fc9cf3-4e61-467a-bae3-a898dac06c01.jpg">
   </p>
   <p align="center">
@@ -28,13 +30,7 @@
 
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-    
-    
-----
-<br>
+
  
 <div> 
   <p align="center">
