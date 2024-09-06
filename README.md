@@ -6,17 +6,14 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6BD600&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Meu+nome+%C3%A9+Abelardo!!;Cada+vez+mais+antenado+com+prog+e+Ti+;____________________________________________" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6BD600&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=+Meu+nome+%C3%A9+Abelardo!!;Cada+vez+mais+antenado+com+prog+e+Ti+;DESENVOLVEDOR%2BEM%2BPROGRESSO...;____________________________________________" alt="Typing SVG" /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Abelardo-Matheus">
    
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/184377834-51fc9cf3-4e61-467a-bae3-a898dac06c01.jpg">
   </p>
-  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=DESENVOLVEDOR+EM+PROGRESSO...">
-<div style="display: inline_block"><br>
-  </p>
+
   <p align="center">
   <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
