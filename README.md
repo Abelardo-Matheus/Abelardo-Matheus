@@ -48,8 +48,7 @@
   </p>
 </div>  
 
-   <![Snake animation](https://github.com/Abelardo-Matheus/Abelardo-Matheus/blob/output/github-contribution-grid-snake.svg)>
-  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abelardo-Matheus&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  </p>
 
