@@ -10,6 +10,7 @@
 ## Meu nome é Abelardo!!Cada vez mais antenado com prog e Ti ##.
   </p>
   <p align="center">
+    <a href="https://github.com/Abelardo-Matheus">
    <img align="center" alt="Abelardo_foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102426463/184377834-51fc9cf3-4e61-467a-bae3-a898dac06c01.jpg">
   </p>
   <p align="center">
@@ -27,9 +28,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/ribYuri">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbelardoX&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoX&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
     
     
@@ -51,7 +51,7 @@
   </p>
 </div>  
 
-   <![Snake animation](https://github.com/AbelardoX/AbelardoX/blob/output/github-contribution-grid-snake.svg)>
+   <![Snake animation](https://github.com/Abelardo-Matheus/Abelardo-Matheus/blob/output/github-contribution-grid-snake.svg)>
   
 
  </p>
