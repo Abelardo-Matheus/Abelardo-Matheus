@@ -9,9 +9,16 @@
   </p>
 
   <p align="center">
-  <img align="center" alt="Rafa-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    
+  <img align="center" alt="Word" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Word.svg">
+  <img align="center" alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+  <img align="center" alt="Game maker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Game maker.svg">
+  <img align="center" alt="ChatGPT" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ChatGPT.svg">
   <img align="center" alt="Rafa-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Photoshop" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Photoshop.svg">
+  <img align="center" alt="Android" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Android.svg">
+  <img align="center" alt="Bootstrap" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
+  <img align="center" alt="Unity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Unity.svg">
   </p>
 
 ----
