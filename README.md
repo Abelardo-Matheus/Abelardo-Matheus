@@ -21,13 +21,9 @@
   <img align="center" alt="Unity" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Unity.svg">
   </p>
 
-----
-<br>
 
 
 <div align="center">
-
- 
 <div> 
   <p align="center">
   <a href="https://www.youtube.com/channel/UCieYBhSuljFrOqryeb0n8lg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -38,6 +34,10 @@
   <a href="https://www.linkedin.com/in/matheus-abelardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198096382060/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni?si=78b15637eeb84f10"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+
+----
+<br>
 
  <p align="center">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
