@@ -37,11 +37,9 @@
 
 
 ----
-<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abelardo-Matheus/Abelardo-Matheus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-</div>  
+  <img src="https://raw.githubusercontent.com/Abelardo-Matheus/Abelardo-Matheus/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>  
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abelardo-Matheus&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
