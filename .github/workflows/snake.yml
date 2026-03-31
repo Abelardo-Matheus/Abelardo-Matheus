@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Roda a cada 24 horas (meia-noite)
+    - cron: "0 0 * * *" 
+  workflow_dispatch: # Permite rodar o script manualmente clicando em um botão
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Puxa o repositório
+      - uses: actions/checkout@v3
+      
+      # 2. Gera a cobrinha a partir das suas contribuições
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # 3. Pega o arquivo SVG gerado e joga para uma branch chamada "output"
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
