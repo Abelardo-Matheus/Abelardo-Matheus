@@ -38,19 +38,14 @@
 
 ----
 <br>
-
- <p align="center">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Abelardo-Matheus&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelardo-Matheus&layout=compact&langs_count=7&theme=chartreuse-dark"/>
- 
-  </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abelardo-Matheus/Abelardo-Matheus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 </div>  
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abelardo-Matheus&theme=chartreuse-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=282c34&fontAlign=56&fontAlignY=35&animation=fadeIn&fontColor=6BD600&section=footer"/>
 
 <div align="center">
   <br><p align="center"><b>Visitantes</b></p>  
@@ -59,5 +54,7 @@
   </p> 
   <br>
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=282c34&fontAlign=56&fontAlignY=35&animation=fadeIn&fontColor=6BD600&section=footer"/>
+
     
 
