@@ -52,7 +52,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=282c34&fontAlign=56&fontAlignY=35&animation=fadeIn&fontColor=6BD600&section=footer"/>
 
-div align="center">
+<div align="center">
   <br><p align="center"><b>Visitantes</b></p>  
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Abelardo-Matheus&color=6BD600&style=for-the-badge&label=VIEWS" alt="Contador de Visitantes" />
