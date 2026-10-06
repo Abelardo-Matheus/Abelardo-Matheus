@@ -23,12 +23,28 @@
 
 ## 🚀 Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/Abelardo-Matheus/EIGUIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=EIGUIT&theme=chartreuse-dark&hide_border=true&bg_color=282c34" /></a>
-  <a href="https://github.com/Abelardo-Matheus/MIDIMK300"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MIDIMK300&theme=chartreuse-dark&hide_border=true&bg_color=282c34" /></a>
-  <a href="https://github.com/Abelardo-Matheus/MAZE-OF-EXISTENCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MAZE-OF-EXISTENCE&theme=chartreuse-dark&hide_border=true&bg_color=282c34" /></a>
-  <a href="https://github.com/Abelardo-Matheus/MiniZelda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MiniZelda&theme=chartreuse-dark&hide_border=true&bg_color=282c34" /></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Abelardo-Matheus/EIGUIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=EIGUIT&theme=chartreuse-dark&hide_border=true&bg_color=282c34&description_lines_count=1" /></a>
+<p align="left">🎸 <b>Guitar Studio com IA</b><br/>Um estúdio virtual de guitarra e baixo em Python: braço interativo com escalas e campo harmônico, editor de tablatura, trilhas de estudo guiadas, mini-jogos como <i>Acerte a Nota</i> e processamento de áudio com IA.</p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Abelardo-Matheus/MIDIMK300"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MIDIMK300&theme=chartreuse-dark&hide_border=true&bg_color=282c34&description_lines_count=1" /></a>
+<p align="left">🎛️ <b>MK-300 Visual Tone Assistant</b><br/>Diga a música ou o artista e a IA (Gemini, OpenAI ou Groq) monta o timbre: sugere os parâmetros dos 11 módulos da pedaleira M-VAVE MK-300, do wah ao reverb, e exporta presets prontos.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Abelardo-Matheus/MAZE-OF-EXISTENCE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MAZE-OF-EXISTENCE&theme=chartreuse-dark&hide_border=true&bg_color=282c34&description_lines_count=1" /></a>
+<p align="left">🧬 <b>Maze of Existence</b><br/>Jogo de ação e sobrevivência em GameMaker onde você começa como bebê e cresce até a vida adulta, enfrentando hordas no estilo <i>Vampire Survivors</i> e explorando labirintos procedurais no estilo <i>The Binding of Isaac</i>.</p>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Abelardo-Matheus/MiniZelda"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Abelardo-Matheus&repo=MiniZelda&theme=chartreuse-dark&hide_border=true&bg_color=282c34&description_lines_count=1" /></a>
+<p align="left">🗡️ <b>MiniZelda</b><br/>Aventura top-down inspirada nos clássicos, feita em Java puro, sem engine: game loop, sprites e fases construídas a partir de mapas em imagem.</p>
+</td>
+</tr>
+</table>
 
 ## 📊 Estatísticas
 
