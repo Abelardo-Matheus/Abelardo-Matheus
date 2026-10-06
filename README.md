@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/22tn5fwpsvwkuv7fhtwujbsni">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22tn5fwpsvwkuv7fhtwujbsni&cover_image=true&theme=novatorem&show_offline=true&background_color=282c34&bar_color=6BD600&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22tn5fwpsvwkuv7fhtwujbsni&cover_image=true&theme=novatorem&show_offline=false&background_color=282c34&bar_color=6BD600&bar_color_cover=false" />
   </a>
 </p>
 
