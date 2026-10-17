@@ -1,0 +1,1133 @@
+<svg width="1166" height="209" xmlns="http://www.w3.org/2000/svg"><desc>Generated with breakout-contribution-graph on Sat Oct 17 2026 03:11:09 GMT+0000 (Coordinated Universal Time)</desc><metadata>
+		<info>
+			<frames>1796</frames>
+			<frameRate>5</frameRate>
+			<durationMs>179600</durationMs>
+			<generatedOn>2026-10-17T03:11:09.487Z</generatedOn>
+		</info>
+	</metadata><rect width="100%" height="100%" fill="#ffffff"/><text x="10" y="10" text-anchor="middle" font-size="10" fill="#57606a">Oct</text><text x="32" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="76" y="10" text-anchor="middle" font-size="10" fill="#57606a">Nov</text><text x="98" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="186" y="10" text-anchor="middle" font-size="10" fill="#57606a">Dec</text><text x="208" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="274" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jan</text><text x="296" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="362" y="10" text-anchor="middle" font-size="10" fill="#57606a">Feb</text><text x="384" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="450" y="10" text-anchor="middle" font-size="10" fill="#57606a">Mar</text><text x="472" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="560" y="10" text-anchor="middle" font-size="10" fill="#57606a">Apr</text><text x="582" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="648" y="10" text-anchor="middle" font-size="10" fill="#57606a">May</text><text x="670" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="758" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jun</text><text x="780" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="846" y="10" text-anchor="middle" font-size="10" fill="#57606a">Jul</text><text x="868" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="934" y="10" text-anchor="middle" font-size="10" fill="#57606a">Aug</text><text x="956" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="1044" y="10" text-anchor="middle" font-size="10" fill="#57606a">Sep</text><text x="1066" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><text x="1132" y="10" text-anchor="middle" font-size="10" fill="#57606a">Oct</text><text x="1154" y="10" text-anchor="middle" font-size="10" fill="#57606a"></text><rect id="c-0-0" x="0" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-1" x="0" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-2" x="0" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-3" x="0" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-4" x="0" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-5" x="0" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-0-6" x="0" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-0" x="22" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-1" x="22" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-2" x="22" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-3" x="22" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-4" x="22" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-5" x="22" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-1-6" x="22" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-0" x="44" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-1" x="44" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-2" x="44" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-3" x="44" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-4" x="44" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-5" x="44" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-2-6" x="44" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-0" x="66" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-1" x="66" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-2" x="66" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-3" x="66" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-4" x="66" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-5" x="66" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-3-6" x="66" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-0" x="88" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-1" x="88" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-2" x="88" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-3" x="88" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-4" x="88" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-5" x="88" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-4-6" x="88" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-0" x="110" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-1" x="110" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-2" x="110" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-3" x="110" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-4" x="110" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-5" x="110" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-5-6" x="110" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-6-0" x="132" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-6-1" x="132" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-6-2" x="132" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.4663;1"/>
+			</rect><rect id="c-6-3" x="132" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.8245;1"/>
+			</rect><rect id="c-6-4" x="132" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.088;1"/>
+			</rect><rect id="c-6-5" x="132" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-6-6" x="132" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-7-0" x="154" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-7-1" x="154" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-7-2" x="154" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1437;1"/>
+			</rect><rect id="c-7-3" x="154" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.4579;1"/>
+			</rect><rect id="c-7-4" x="154" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-7-5" x="154" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-7-6" x="154" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-0" x="176" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-1" x="176" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-2" x="176" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-3" x="176" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-4" x="176" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0323;1"/>
+			</rect><rect id="c-8-5" x="176" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-8-6" x="176" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0635;1"/>
+			</rect><rect id="c-9-0" x="198" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-9-1" x="198" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-9-2" x="198" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-9-3" x="198" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0318;0.4585;1"/>
+			</rect><rect id="c-9-4" x="198" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0251;1"/>
+			</rect><rect id="c-9-5" x="198" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0323;1"/>
+			</rect><rect id="c-9-6" x="198" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-0" x="220" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-1" x="220" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-2" x="220" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-3" x="220" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0251;1"/>
+			</rect><rect id="c-10-4" x="220" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-5" x="220" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-10-6" x="220" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-0" x="242" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-1" x="242" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-2" x="242" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-3" x="242" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-4" x="242" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-5" x="242" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-11-6" x="242" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-12-0" x="264" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-12-1" x="264" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1415;1"/>
+			</rect><rect id="c-12-2" x="264" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.171;1"/>
+			</rect><rect id="c-12-3" x="264" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-12-4" x="264" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-12-5" x="264" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-12-6" x="264" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-0" x="286" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-1" x="286" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-2" x="286" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-3" x="286" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-4" x="286" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-5" x="286" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-13-6" x="286" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-0" x="308" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-1" x="308" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-2" x="308" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-3" x="308" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-4" x="308" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-5" x="308" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-14-6" x="308" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-0" x="330" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-1" x="330" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-2" x="330" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-3" x="330" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-4" x="330" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-5" x="330" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-15-6" x="330" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-0" x="352" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-1" x="352" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-2" x="352" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-3" x="352" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-4" x="352" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-5" x="352" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-16-6" x="352" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-0" x="374" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-1" x="374" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-2" x="374" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-3" x="374" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-4" x="374" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-5" x="374" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-17-6" x="374" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-0" x="396" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-1" x="396" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-2" x="396" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-3" x="396" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-4" x="396" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-5" x="396" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-18-6" x="396" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-0" x="418" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-1" x="418" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-2" x="418" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-3" x="418" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-4" x="418" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-5" x="418" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-19-6" x="418" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-0" x="440" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-1" x="440" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-2" x="440" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-3" x="440" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-4" x="440" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-5" x="440" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-20-6" x="440" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-0" x="462" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-1" x="462" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-2" x="462" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-3" x="462" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-4" x="462" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-5" x="462" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-21-6" x="462" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-0" x="484" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-1" x="484" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-2" x="484" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-3" x="484" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-4" x="484" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-5" x="484" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-22-6" x="484" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-23-0" x="506" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-23-1" x="506" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.039;1"/>
+			</rect><rect id="c-23-2" x="506" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0774;1"/>
+			</rect><rect id="c-23-3" x="506" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1003;1"/>
+			</rect><rect id="c-23-4" x="506" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-23-5" x="506" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1766;1"/>
+			</rect><rect id="c-23-6" x="506" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-24-0" x="528" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-24-1" x="528" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-24-2" x="528" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1655;0.4228;1"/>
+			</rect><rect id="c-24-3" x="528" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0178;1"/>
+			</rect><rect id="c-24-4" x="528" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0111;1"/>
+			</rect><rect id="c-24-5" x="528" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-24-6" x="528" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-0" x="550" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-1" x="550" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-2" x="550" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-3" x="550" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-4" x="550" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-5" x="550" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-25-6" x="550" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-26-0" x="572" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-26-1" x="572" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-26-2" x="572" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0546;1"/>
+			</rect><rect id="c-26-3" x="572" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0106;1"/>
+			</rect><rect id="c-26-4" x="572" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-26-5" x="572" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-26-6" x="572" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0039;1"/>
+			</rect><rect id="c-27-0" x="594" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-27-1" x="594" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-27-2" x="594" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0986;0.1538;1"/>
+			</rect><rect id="c-27-3" x="594" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0006;0.1788;1"/>
+			</rect><rect id="c-27-4" x="594" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-27-5" x="594" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-27-6" x="594" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0022;1"/>
+			</rect><rect id="c-28-0" x="616" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-28-1" x="616" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.054;1"/>
+			</rect><rect id="c-28-2" x="616" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1894;0.1983;0.2078;0.2167;1"/>
+			</rect><rect id="c-28-3" x="616" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-28-4" x="616" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-28-5" x="616" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-28-6" x="616" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-29-0" x="638" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-29-1" x="638" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-29-2" x="638" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0735;1"/>
+			</rect><rect id="c-29-3" x="638" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.19;0.1983;0.2078;0.2167;1"/>
+			</rect><rect id="c-29-4" x="638" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.005;1"/>
+			</rect><rect id="c-29-5" x="638" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0017;1"/>
+			</rect><rect id="c-29-6" x="638" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#ebedf0;#ebedf0" keyTimes="0;0.0089;1"/>
+			</rect><rect id="c-30-0" x="660" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3448;1"/>
+			</rect><rect id="c-30-1" x="660" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0741;1"/>
+			</rect><rect id="c-30-2" x="660" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-30-3" x="660" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-30-4" x="660" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-30-5" x="660" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-30-6" x="660" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0067;1"/>
+			</rect><rect id="c-31-0" x="682" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.2875;1"/>
+			</rect><rect id="c-31-1" x="682" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.2273;1"/>
+			</rect><rect id="c-31-2" x="682" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.112;1"/>
+			</rect><rect id="c-31-3" x="682" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-31-4" x="682" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.254;1"/>
+			</rect><rect id="c-31-5" x="682" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-31-6" x="682" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-0" x="704" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-1" x="704" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-2" x="704" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-3" x="704" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-4" x="704" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-5" x="704" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-32-6" x="704" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0061;1"/>
+			</rect><rect id="c-33-0" x="726" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-33-1" x="726" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1125;1"/>
+			</rect><rect id="c-33-2" x="726" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-33-3" x="726" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-33-4" x="726" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1109;1"/>
+			</rect><rect id="c-33-5" x="726" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-33-6" x="726" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-34-0" x="748" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-34-1" x="748" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1092;1"/>
+			</rect><rect id="c-34-2" x="748" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-34-3" x="748" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-34-4" x="748" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-34-5" x="748" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.132;1"/>
+			</rect><rect id="c-34-6" x="748" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-0" x="770" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-1" x="770" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.2524;1"/>
+			</rect><rect id="c-35-2" x="770" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-3" x="770" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-4" x="770" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-5" x="770" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-35-6" x="770" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-36-0" x="792" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-36-1" x="792" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-36-2" x="792" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1097;1"/>
+			</rect><rect id="c-36-3" x="792" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-36-4" x="792" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-36-5" x="792" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1164;0.2496;0.2797;1"/>
+			</rect><rect id="c-36-6" x="792" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-0" x="814" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-1" x="814" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-2" x="814" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-3" x="814" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-4" x="814" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-5" x="814" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-37-6" x="814" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-0" x="836" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-1" x="836" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-2" x="836" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-3" x="836" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-4" x="836" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-5" x="836" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-38-6" x="836" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-39-0" x="858" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-39-1" x="858" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-39-2" x="858" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3047;0.3933;0.4067;0.415;1"/>
+			</rect><rect id="c-39-3" x="858" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.2507;1"/>
+			</rect><rect id="c-39-4" x="858" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1153;0.2841;1"/>
+			</rect><rect id="c-39-5" x="858" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-39-6" x="858" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-40-0" x="880" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-40-1" x="880" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-40-2" x="880" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-40-3" x="880" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-40-4" x="880" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.2919;0.3248;0.3493;0.3939;1"/>
+			</rect><rect id="c-40-5" x="880" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1242;0.1292;0.3398;1"/>
+			</rect><rect id="c-40-6" x="880" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-41-0" x="902" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-41-1" x="902" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3354;1"/>
+			</rect><rect id="c-41-2" x="902" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3855;1"/>
+			</rect><rect id="c-41-3" x="902" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-41-4" x="902" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1248;1"/>
+			</rect><rect id="c-41-5" x="902" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-41-6" x="902" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-0" x="924" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-1" x="924" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-2" x="924" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-3" x="924" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-4" x="924" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.127;1"/>
+			</rect><rect id="c-42-5" x="924" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-42-6" x="924" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-0" x="946" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-1" x="946" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-2" x="946" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-3" x="946" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-4" x="946" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-5" x="946" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-43-6" x="946" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-0" x="968" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-1" x="968" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-2" x="968" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-3" x="968" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-4" x="968" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-5" x="968" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-44-6" x="968" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-0" x="990" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-1" x="990" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-2" x="990" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-3" x="990" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-4" x="990" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-5" x="990" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-45-6" x="990" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-46-0" x="1012" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-46-1" x="1012" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-46-2" x="1012" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3226;0.3978;0.4017;1"/>
+			</rect><rect id="c-46-3" x="1012" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1209;0.337;0.3783;1"/>
+			</rect><rect id="c-46-4" x="1012" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.1209;1"/>
+			</rect><rect id="c-46-5" x="1012" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-46-6" x="1012" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-47-0" x="1034" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-47-1" x="1034" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-47-2" x="1034" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-47-3" x="1034" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-47-4" x="1034" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3304;0.4011;1"/>
+			</rect><rect id="c-47-5" x="1034" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.5086;1"/>
+			</rect><rect id="c-47-6" x="1034" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-0" x="1056" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-1" x="1056" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-2" x="1056" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-3" x="1056" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-4" x="1056" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-5" x="1056" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-48-6" x="1056" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-0" x="1078" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-1" x="1078" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-2" x="1078" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-3" x="1078" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-4" x="1078" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-5" x="1078" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-49-6" x="1078" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-50-0" x="1100" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-50-1" x="1100" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-50-2" x="1100" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.4;1"/>
+			</rect><rect id="c-50-3" x="1100" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3309;1"/>
+			</rect><rect id="c-50-4" x="1100" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-50-5" x="1100" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.3292;1"/>
+			</rect><rect id="c-50-6" x="1100" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-51-0" x="1122" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-51-1" x="1122" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-51-2" x="1122" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.5103;0.5493;0.5577;1"/>
+			</rect><rect id="c-51-3" x="1122" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#30a14e;#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.5103;0.5192;0.5409;1"/>
+			</rect><rect id="c-51-4" x="1122" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-51-5" x="1122" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-51-6" x="1122" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#216e39;#30a14e;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.8696;0.8797;0.9081;1"/>
+			</rect><rect id="c-52-0" x="1144" y="15" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.5655;1"/>
+			</rect><rect id="c-52-1" x="1144" y="37" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-52-2" x="1144" y="59" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-52-3" x="1144" y="81" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#40c463;#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.5499;0.5582;1"/>
+			</rect><rect id="c-52-4" x="1144" y="103" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><rect id="c-52-5" x="1144" y="125" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.8802;1"/>
+			</rect><rect id="c-52-6" x="1144" y="147" width="20" height="20" rx="3" fill="#ebedf0">
+				<animate attributeName="fill" calcMode="discrete" dur="179600ms" repeatCount="indefinite"
+					values="#ebedf0;#ebedf0" keyTimes="0;1"/>
+			</rect><circle id="ball" cx="0" cy="0" r="5" fill="#000000" stroke="#aaaaaa" stroke-width="1">
+		<animateTransform attributeName="transform" type="translate"
+			calcMode="linear"
+			dur="179600ms" repeatCount="indefinite"
+			keyTimes="0;0.0006;0.0011;0.0017;0.0022;0.0028;0.0033;0.0039;0.0045;0.005;0.0056;0.0061;0.0067;0.0072;0.0078;0.0084;0.0089;0.0095;0.01;0.0106;0.0111;0.0117;0.0123;0.0128;0.0134;0.0139;0.0145;0.015;0.0156;0.0162;0.0167;0.0173;0.0178;0.0184;0.0189;0.0195;0.0201;0.0206;0.0212;0.0217;0.0223;0.0228;0.0234;0.024;0.0245;0.0251;0.0256;0.0262;0.0267;0.0273;0.0279;0.0284;0.029;0.0295;0.0301;0.0306;0.0312;0.0318;0.0323;0.0329;0.0334;0.034;0.0345;0.0351;0.0357;0.0362;0.0368;0.0373;0.0379;0.0384;0.039;0.0396;0.0401;0.0407;0.0412;0.0418;0.0423;0.0429;0.0435;0.044;0.0446;0.0451;0.0457;0.0462;0.0468;0.0474;0.0479;0.0485;0.049;0.0496;0.0501;0.0507;0.0513;0.0518;0.0524;0.0529;0.0535;0.054;0.0546;0.0552;0.0557;0.0563;0.0568;0.0574;0.0579;0.0585;0.0591;0.0596;0.0602;0.0607;0.0613;0.0618;0.0624;0.063;0.0635;0.0641;0.0646;0.0652;0.0657;0.0663;0.0669;0.0674;0.068;0.0685;0.0691;0.0696;0.0702;0.0708;0.0713;0.0719;0.0724;0.073;0.0735;0.0741;0.0747;0.0752;0.0758;0.0763;0.0769;0.0774;0.078;0.0786;0.0791;0.0797;0.0802;0.0808;0.0813;0.0819;0.0825;0.083;0.0836;0.0841;0.0847;0.0852;0.0858;0.0864;0.0869;0.0875;0.088;0.0886;0.0891;0.0897;0.0903;0.0908;0.0914;0.0919;0.0925;0.093;0.0936;0.0942;0.0947;0.0953;0.0958;0.0964;0.0969;0.0975;0.0981;0.0986;0.0992;0.0997;0.1003;0.1008;0.1014;0.1019;0.1025;0.1031;0.1036;0.1042;0.1047;0.1053;0.1058;0.1064;0.107;0.1075;0.1081;0.1086;0.1092;0.1097;0.1103;0.1109;0.1114;0.112;0.1125;0.1131;0.1136;0.1142;0.1148;0.1153;0.1159;0.1164;0.117;0.1175;0.1181;0.1187;0.1192;0.1198;0.1203;0.1209;0.1214;0.122;0.1226;0.1231;0.1237;0.1242;0.1248;0.1253;0.1259;0.1265;0.127;0.1276;0.1281;0.1287;0.1292;0.1298;0.1304;0.1309;0.1315;0.132;0.1326;0.1331;0.1337;0.1343;0.1348;0.1354;0.1359;0.1365;0.137;0.1376;0.1382;0.1387;0.1393;0.1398;0.1404;0.1409;0.1415;0.1421;0.1426;0.1432;0.1437;0.1443;0.1448;0.1454;0.146;0.1465;0.1471;0.1476;0.1482;0.1487;0.1493;0.1499;0.1504;0.151;0.1515;0.1521;0.1526;0.1532;0.1538;0.1543;0.1549;0.1554;0.156;0.1565;0.1571;0.1577;0.1582;0.1588;0.1593;0.1599;0.1604;0.161;0.1616;0.1621;0.1627;0.1632;0.1638;0.1643;0.1649;0.1655;0.166;0.1666;0.1671;0.1677;0.1682;0.1688;0.1694;0.1699;0.1705;0.171;0.1716;0.1721;0.1727;0.1733;0.1738;0.1744;0.1749;0.1755;0.176;0.1766;0.1772;0.1777;0.1783;0.1788;0.1794;0.1799;0.1805;0.1811;0.1816;0.1822;0.1827;0.1833;0.1838;0.1844;0.185;0.1855;0.1861;0.1866;0.1872;0.1877;0.1883;0.1889;0.1894;0.19;0.1905;0.1911;0.1916;0.1922;0.1928;0.1933;0.1939;0.1944;0.195;0.1955;0.1961;0.1967;0.1972;0.1978;0.1983;0.1989;0.1994;0.2;0.2006;0.2011;0.2017;0.2022;0.2028;0.2033;0.2039;0.2045;0.205;0.2056;0.2061;0.2067;0.2072;0.2078;0.2084;0.2089;0.2095;0.21;0.2106;0.2111;0.2117;0.2123;0.2128;0.2134;0.2139;0.2145;0.215;0.2156;0.2162;0.2167;0.2173;0.2178;0.2184;0.2189;0.2195;0.2201;0.2206;0.2212;0.2217;0.2223;0.2228;0.2234;0.224;0.2245;0.2251;0.2256;0.2262;0.2267;0.2273;0.2279;0.2284;0.229;0.2295;0.2301;0.2306;0.2312;0.2318;0.2323;0.2329;0.2334;0.234;0.2345;0.2351;0.2357;0.2362;0.2368;0.2373;0.2379;0.2384;0.239;0.2396;0.2401;0.2407;0.2412;0.2418;0.2423;0.2429;0.2435;0.244;0.2446;0.2451;0.2457;0.2462;0.2468;0.2474;0.2479;0.2485;0.249;0.2496;0.2501;0.2507;0.2513;0.2518;0.2524;0.2529;0.2535;0.254;0.2546;0.2552;0.2557;0.2563;0.2568;0.2574;0.2579;0.2585;0.2591;0.2596;0.2602;0.2607;0.2613;0.2618;0.2624;0.263;0.2635;0.2641;0.2646;0.2652;0.2657;0.2663;0.2669;0.2674;0.268;0.2685;0.2691;0.2696;0.2702;0.2708;0.2713;0.2719;0.2724;0.273;0.2735;0.2741;0.2747;0.2752;0.2758;0.2763;0.2769;0.2774;0.278;0.2786;0.2791;0.2797;0.2802;0.2808;0.2813;0.2819;0.2825;0.283;0.2836;0.2841;0.2847;0.2852;0.2858;0.2864;0.2869;0.2875;0.288;0.2886;0.2891;0.2897;0.2903;0.2908;0.2914;0.2919;0.2925;0.293;0.2936;0.2942;0.2947;0.2953;0.2958;0.2964;0.2969;0.2975;0.2981;0.2986;0.2992;0.2997;0.3003;0.3008;0.3014;0.3019;0.3025;0.3031;0.3036;0.3042;0.3047;0.3053;0.3058;0.3064;0.307;0.3075;0.3081;0.3086;0.3092;0.3097;0.3103;0.3109;0.3114;0.312;0.3125;0.3131;0.3136;0.3142;0.3148;0.3153;0.3159;0.3164;0.317;0.3175;0.3181;0.3187;0.3192;0.3198;0.3203;0.3209;0.3214;0.322;0.3226;0.3231;0.3237;0.3242;0.3248;0.3253;0.3259;0.3265;0.327;0.3276;0.3281;0.3287;0.3292;0.3298;0.3304;0.3309;0.3315;0.332;0.3326;0.3331;0.3337;0.3343;0.3348;0.3354;0.3359;0.3365;0.337;0.3376;0.3382;0.3387;0.3393;0.3398;0.3404;0.3409;0.3415;0.3421;0.3426;0.3432;0.3437;0.3443;0.3448;0.3454;0.346;0.3465;0.3471;0.3476;0.3482;0.3487;0.3493;0.3499;0.3504;0.351;0.3515;0.3521;0.3526;0.3532;0.3538;0.3543;0.3549;0.3554;0.356;0.3565;0.3571;0.3577;0.3582;0.3588;0.3593;0.3599;0.3604;0.361;0.3616;0.3621;0.3627;0.3632;0.3638;0.3643;0.3649;0.3655;0.366;0.3666;0.3671;0.3677;0.3682;0.3688;0.3694;0.3699;0.3705;0.371;0.3716;0.3721;0.3727;0.3733;0.3738;0.3744;0.3749;0.3755;0.376;0.3766;0.3772;0.3777;0.3783;0.3788;0.3794;0.3799;0.3805;0.3811;0.3816;0.3822;0.3827;0.3833;0.3838;0.3844;0.385;0.3855;0.3861;0.3866;0.3872;0.3877;0.3883;0.3889;0.3894;0.39;0.3905;0.3911;0.3916;0.3922;0.3928;0.3933;0.3939;0.3944;0.395;0.3955;0.3961;0.3967;0.3972;0.3978;0.3983;0.3989;0.3994;0.4;0.4006;0.4011;0.4017;0.4022;0.4028;0.4033;0.4039;0.4045;0.405;0.4056;0.4061;0.4067;0.4072;0.4078;0.4084;0.4089;0.4095;0.41;0.4106;0.4111;0.4117;0.4123;0.4128;0.4134;0.4139;0.4145;0.415;0.4156;0.4162;0.4167;0.4173;0.4178;0.4184;0.4189;0.4195;0.4201;0.4206;0.4212;0.4217;0.4223;0.4228;0.4234;0.424;0.4245;0.4251;0.4256;0.4262;0.4267;0.4273;0.4279;0.4284;0.429;0.4295;0.4301;0.4306;0.4312;0.4318;0.4323;0.4329;0.4334;0.434;0.4345;0.4351;0.4357;0.4362;0.4368;0.4373;0.4379;0.4384;0.439;0.4396;0.4401;0.4407;0.4412;0.4418;0.4423;0.4429;0.4435;0.444;0.4446;0.4451;0.4457;0.4462;0.4468;0.4474;0.4479;0.4485;0.449;0.4496;0.4501;0.4507;0.4513;0.4518;0.4524;0.4529;0.4535;0.454;0.4546;0.4552;0.4557;0.4563;0.4568;0.4574;0.4579;0.4585;0.4591;0.4596;0.4602;0.4607;0.4613;0.4618;0.4624;0.463;0.4635;0.4641;0.4646;0.4652;0.4657;0.4663;0.4669;0.4674;0.468;0.4685;0.4691;0.4696;0.4702;0.4708;0.4713;0.4719;0.4724;0.473;0.4735;0.4741;0.4747;0.4752;0.4758;0.4763;0.4769;0.4774;0.478;0.4786;0.4791;0.4797;0.4802;0.4808;0.4813;0.4819;0.4825;0.483;0.4836;0.4841;0.4847;0.4852;0.4858;0.4864;0.4869;0.4875;0.488;0.4886;0.4891;0.4897;0.4903;0.4908;0.4914;0.4919;0.4925;0.493;0.4936;0.4942;0.4947;0.4953;0.4958;0.4964;0.4969;0.4975;0.4981;0.4986;0.4992;0.4997;0.5003;0.5008;0.5014;0.5019;0.5025;0.5031;0.5036;0.5042;0.5047;0.5053;0.5058;0.5064;0.507;0.5075;0.5081;0.5086;0.5092;0.5097;0.5103;0.5109;0.5114;0.512;0.5125;0.5131;0.5136;0.5142;0.5148;0.5153;0.5159;0.5164;0.517;0.5175;0.5181;0.5187;0.5192;0.5198;0.5203;0.5209;0.5214;0.522;0.5226;0.5231;0.5237;0.5242;0.5248;0.5253;0.5259;0.5265;0.527;0.5276;0.5281;0.5287;0.5292;0.5298;0.5304;0.5309;0.5315;0.532;0.5326;0.5331;0.5337;0.5343;0.5348;0.5354;0.5359;0.5365;0.537;0.5376;0.5382;0.5387;0.5393;0.5398;0.5404;0.5409;0.5415;0.5421;0.5426;0.5432;0.5437;0.5443;0.5448;0.5454;0.546;0.5465;0.5471;0.5476;0.5482;0.5487;0.5493;0.5499;0.5504;0.551;0.5515;0.5521;0.5526;0.5532;0.5538;0.5543;0.5549;0.5554;0.556;0.5565;0.5571;0.5577;0.5582;0.5588;0.5593;0.5599;0.5604;0.561;0.5616;0.5621;0.5627;0.5632;0.5638;0.5643;0.5649;0.5655;0.566;0.5666;0.5671;0.5677;0.5682;0.5688;0.5694;0.5699;0.5705;0.571;0.5716;0.5721;0.5727;0.5733;0.5738;0.5744;0.5749;0.5755;0.576;0.5766;0.5772;0.5777;0.5783;0.5788;0.5794;0.5799;0.5805;0.5811;0.5816;0.5822;0.5827;0.5833;0.5838;0.5844;0.585;0.5855;0.5861;0.5866;0.5872;0.5877;0.5883;0.5889;0.5894;0.59;0.5905;0.5911;0.5916;0.5922;0.5928;0.5933;0.5939;0.5944;0.595;0.5955;0.5961;0.5967;0.5972;0.5978;0.5983;0.5989;0.5994;0.6;0.6006;0.6011;0.6017;0.6022;0.6028;0.6033;0.6039;0.6045;0.605;0.6056;0.6061;0.6067;0.6072;0.6078;0.6084;0.6089;0.6095;0.61;0.6106;0.6111;0.6117;0.6123;0.6128;0.6134;0.6139;0.6145;0.615;0.6156;0.6162;0.6167;0.6173;0.6178;0.6184;0.6189;0.6195;0.6201;0.6206;0.6212;0.6217;0.6223;0.6228;0.6234;0.624;0.6245;0.6251;0.6256;0.6262;0.6267;0.6273;0.6279;0.6284;0.629;0.6295;0.6301;0.6306;0.6312;0.6318;0.6323;0.6329;0.6334;0.634;0.6345;0.6351;0.6357;0.6362;0.6368;0.6373;0.6379;0.6384;0.639;0.6396;0.6401;0.6407;0.6412;0.6418;0.6423;0.6429;0.6435;0.644;0.6446;0.6451;0.6457;0.6462;0.6468;0.6474;0.6479;0.6485;0.649;0.6496;0.6501;0.6507;0.6513;0.6518;0.6524;0.6529;0.6535;0.654;0.6546;0.6552;0.6557;0.6563;0.6568;0.6574;0.6579;0.6585;0.6591;0.6596;0.6602;0.6607;0.6613;0.6618;0.6624;0.663;0.6635;0.6641;0.6646;0.6652;0.6657;0.6663;0.6669;0.6674;0.668;0.6685;0.6691;0.6696;0.6702;0.6708;0.6713;0.6719;0.6724;0.673;0.6735;0.6741;0.6747;0.6752;0.6758;0.6763;0.6769;0.6774;0.678;0.6786;0.6791;0.6797;0.6802;0.6808;0.6813;0.6819;0.6825;0.683;0.6836;0.6841;0.6847;0.6852;0.6858;0.6864;0.6869;0.6875;0.688;0.6886;0.6891;0.6897;0.6903;0.6908;0.6914;0.6919;0.6925;0.693;0.6936;0.6942;0.6947;0.6953;0.6958;0.6964;0.6969;0.6975;0.6981;0.6986;0.6992;0.6997;0.7003;0.7008;0.7014;0.7019;0.7025;0.7031;0.7036;0.7042;0.7047;0.7053;0.7058;0.7064;0.707;0.7075;0.7081;0.7086;0.7092;0.7097;0.7103;0.7109;0.7114;0.712;0.7125;0.7131;0.7136;0.7142;0.7148;0.7153;0.7159;0.7164;0.717;0.7175;0.7181;0.7187;0.7192;0.7198;0.7203;0.7209;0.7214;0.722;0.7226;0.7231;0.7237;0.7242;0.7248;0.7253;0.7259;0.7265;0.727;0.7276;0.7281;0.7287;0.7292;0.7298;0.7304;0.7309;0.7315;0.732;0.7326;0.7331;0.7337;0.7343;0.7348;0.7354;0.7359;0.7365;0.737;0.7376;0.7382;0.7387;0.7393;0.7398;0.7404;0.7409;0.7415;0.7421;0.7426;0.7432;0.7437;0.7443;0.7448;0.7454;0.746;0.7465;0.7471;0.7476;0.7482;0.7487;0.7493;0.7499;0.7504;0.751;0.7515;0.7521;0.7526;0.7532;0.7538;0.7543;0.7549;0.7554;0.756;0.7565;0.7571;0.7577;0.7582;0.7588;0.7593;0.7599;0.7604;0.761;0.7616;0.7621;0.7627;0.7632;0.7638;0.7643;0.7649;0.7655;0.766;0.7666;0.7671;0.7677;0.7682;0.7688;0.7694;0.7699;0.7705;0.771;0.7716;0.7721;0.7727;0.7733;0.7738;0.7744;0.7749;0.7755;0.776;0.7766;0.7772;0.7777;0.7783;0.7788;0.7794;0.7799;0.7805;0.7811;0.7816;0.7822;0.7827;0.7833;0.7838;0.7844;0.785;0.7855;0.7861;0.7866;0.7872;0.7877;0.7883;0.7889;0.7894;0.79;0.7905;0.7911;0.7916;0.7922;0.7928;0.7933;0.7939;0.7944;0.795;0.7955;0.7961;0.7967;0.7972;0.7978;0.7983;0.7989;0.7994;0.8;0.8006;0.8011;0.8017;0.8022;0.8028;0.8033;0.8039;0.8045;0.805;0.8056;0.8061;0.8067;0.8072;0.8078;0.8084;0.8089;0.8095;0.81;0.8106;0.8111;0.8117;0.8123;0.8128;0.8134;0.8139;0.8145;0.815;0.8156;0.8162;0.8167;0.8173;0.8178;0.8184;0.8189;0.8195;0.8201;0.8206;0.8212;0.8217;0.8223;0.8228;0.8234;0.824;0.8245;0.8251;0.8256;0.8262;0.8267;0.8273;0.8279;0.8284;0.829;0.8295;0.8301;0.8306;0.8312;0.8318;0.8323;0.8329;0.8334;0.834;0.8345;0.8351;0.8357;0.8362;0.8368;0.8373;0.8379;0.8384;0.839;0.8396;0.8401;0.8407;0.8412;0.8418;0.8423;0.8429;0.8435;0.844;0.8446;0.8451;0.8457;0.8462;0.8468;0.8474;0.8479;0.8485;0.849;0.8496;0.8501;0.8507;0.8513;0.8518;0.8524;0.8529;0.8535;0.854;0.8546;0.8552;0.8557;0.8563;0.8568;0.8574;0.8579;0.8585;0.8591;0.8596;0.8602;0.8607;0.8613;0.8618;0.8624;0.863;0.8635;0.8641;0.8646;0.8652;0.8657;0.8663;0.8669;0.8674;0.868;0.8685;0.8691;0.8696;0.8702;0.8708;0.8713;0.8719;0.8724;0.873;0.8735;0.8741;0.8747;0.8752;0.8758;0.8763;0.8769;0.8774;0.878;0.8786;0.8791;0.8797;0.8802;0.8808;0.8813;0.8819;0.8825;0.883;0.8836;0.8841;0.8847;0.8852;0.8858;0.8864;0.8869;0.8875;0.888;0.8886;0.8891;0.8897;0.8903;0.8908;0.8914;0.8919;0.8925;0.893;0.8936;0.8942;0.8947;0.8953;0.8958;0.8964;0.8969;0.8975;0.8981;0.8986;0.8992;0.8997;0.9003;0.9008;0.9014;0.9019;0.9025;0.9031;0.9036;0.9042;0.9047;0.9053;0.9058;0.9064;0.907;0.9075;0.9081;0.9086;0.9092;0.9097;0.9103;0.9109;0.9114;0.912;0.9125;0.9131;0.9136;0.9142;0.9148;0.9153;0.9159;0.9164;0.917;0.9175;0.9181;0.9187;0.9192;0.9198;0.9203;0.9209;0.9214;0.922;0.9226;0.9231;0.9237;0.9242;0.9248;0.9253;0.9259;0.9265;0.927;0.9276;0.9281;0.9287;0.9292;0.9298;0.9304;0.9309;0.9315;0.932;0.9326;0.9331;0.9337;0.9343;0.9348;0.9354;0.9359;0.9365;0.937;0.9376;0.9382;0.9387;0.9393;0.9398;0.9404;0.9409;0.9415;0.9421;0.9426;0.9432;0.9437;0.9443;0.9448;0.9454;0.946;0.9465;0.9471;0.9476;0.9482;0.9487;0.9493;0.9499;0.9504;0.951;0.9515;0.9521;0.9526;0.9532;0.9538;0.9543;0.9549;0.9554;0.956;0.9565;0.9571;0.9577;0.9582;0.9588;0.9593;0.9599;0.9604;0.961;0.9616;0.9621;0.9627;0.9632;0.9638;0.9643;0.9649;0.9655;0.966;0.9666;0.9671;0.9677;0.9682;0.9688;0.9694;0.9699;0.9705;0.971;0.9716;0.9721;0.9727;0.9733;0.9738;0.9744;0.9749;0.9755;0.976;0.9766;0.9772;0.9777;0.9783;0.9788;0.9794;0.9799;0.9805;0.9811;0.9816;0.9822;0.9827;0.9833;0.9838;0.9844;0.985;0.9855;0.9861;0.9866;0.9872;0.9877;0.9883;0.9889;0.9894;0.99;0.9905;0.9911;0.9916;0.9922;0.9928;0.9933;0.9939;0.9944;0.995;0.9955;0.9961;0.9967;0.9972;0.9978;0.9983;0.9989;0.9994;1"
+			values="599.5,123.90000000000002;616,105.62;632.5,126.51999999999998;619.63,147.41999999999996;632.37,168.31999999999996;621.7811150685094,165.67762974527147;597.6477876712735,154.42407436317865;616.7311061643633,143.17051898108585;640.8644335615992,131.91696359899305;664.9977609588351,133.24677769104642;689.131088356071,144.50033307313922;687.313336301382,155.75388845523202;704.7311061643633,167.00744383732484;720.8199910958539,171.3044074363179;696.686663698618,160.05085205422506;672.553336301382,148.79729667213226;648.4200089041461,138.62881487263573;624.2866815069102,127.37525949054292;600.1533541096743,116.12170410845012;576.0200267124384,105.62;552.62,116.8735553820928;576.7533273972359,128.1271107641856;600.8866547944718,139.38066614627843;625.0199821917078,150.63422152837123;649.1533095889437,161.88777691046405;673.2866369861796,173.14133229255685;665.2421945204343,165.67762974527147;641.1088671231984,154.42407436317865;616.9755397259624,143.17051898108585;592.8422123287265,131.91696359899305;568.7088849314906,120.66340821690024;544.5755575342547,109.40985283480742;520.4422301370188,111.2467776910464;496.3089027397829,122.50033307313922;472.175575342547,133.75388845523202;448.0422479453111,145.00744383732484;423.9089205480752,156.26099921941764;399.77559315083926,167.51455460151044;375.64226575360334,178.76810998360327;351.5089383563674,163.80203718158933;327.37561095913173,152.54848179949653;303.2422835618961,141.2949264174037;279.1089561646604,130.0413710353109;254.97562876742472,118.7878156532181;230.84230137018903,107.53426027112529;234.68666369861785,113.12237025472854;258.81999109585354,124.37592563682135;282.9533184930892,135.62948101891416;307.0866458903249,146.88303640100696;331.21997328756055,158.1365917830998;355.35330068479624,169.3901471651926;355.35330068479624,167.5532223089536;331.21997328756055,156.2996669268608;307.0866458903249,145.046111544768;282.9533184930892,133.79255616267517;258.81999109585354,122.53900078058237;234.68666369861785,111.28544539848956;210.55333630138216,109.37118512736427;212.68666369861785,120.38;236.81999109585354,109.1264446179072;260.9533184930892,97.87288923581436;285.0866458903249,86.61933385372149;309.21997328756055,75.36577847162862;333.35330068479624,64.11222308953575;357.486628082032,52.85866770744288;381.6199554792679,41.605112325350014;405.7532828765038,30.351556943257155;429.88661027373973,19.62;454.01993767097565,30.873555382092853;478.15326506821157,42.1271107641857;501.38,53.38066614627857;477.2466726027641,64.63422152837144;453.11334520552816,75.88777691046431;428.98001780829225,87.14133229255718;404.84669041105633,98.39488767465005;380.7133630138204,109.64844305674288;356.5800356165845,120.90199843883569;332.44670821934875,132.1555538209285;308.31338082211306,143.4091092030213;284.18005342487737,154.66266458511413;260.04672602764174,165.91621996720693;235.91339863040602,173.18;260.04672602764174,161.9264446179072;284.18005342487737,150.67288923581438;308.31338082211306,139.41933385372158;332.44670821934875,128.16577847162876;356.5800356165845,116.91222308953596;380.7133630138204,105.65866770744316;404.84669041105633,94.40511232535029;428.98001780829225,83.15155694325743;453.11334520552816,71.89800156116456;477.2466726027641,60.64444617907169;501.38,49.39089079697882;525.5133273972359,38.13733541488595;549.6466547944718,26.8837800327931;573.7799821917077,23.371185127364285;597.9133095889437,34.62474050945714;603.3355575342547,45.878295891549996;579.2022301370188,52.504407436317855;555.0689027397829,41.25085205422499;530.9355753425469,29.99729667213213;506.802247945311,19.62;482.6689205480751,30.873555382092853;458.5355931508392,42.1271107641857;434.4022657536033,53.38066614627857;410.26893835636736,64.63422152837144;386.13561095913144,75.88777691046431;362.0022835618955,87.14133229255718;337.8689561646597,98.39488767465005;313.7356287674241,109.64844305674288;289.6023013701884,120.90199843883569;265.4689739729527,132.1555538209285;241.33564657571702,143.4091092030213;217.20231917848133,154.66266458511413;204.6422212328726,165.91621996720693;228.7755486301083,177.16977534929975;252.90887602734398,163.80203718158933;277.04220342457967,152.54848179949653;301.17553082181536,141.2949264174037;325.30885821905105,130.0413710353109;349.4421856162867,118.7878156532181;373.5755130135226,107.53426027112529;397.7088404107585,96.28070488903244;421.84216780799443,85.02714950693957;445.97549520523035,73.77359412484671;470.10882260246626,62.52003874275383;494.2421499997022,51.26648336066097;518.3754773969381,40.0129279785681;542.508804794174,28.759372596475245;566.6421321914099,21.49559256368214;590.7754595886458,32.74914794577499;614.9087869858818,44.00270332786785;639.0421143831177,54.38;651.3577787671273,43.12644461790713;627.2244513698914,31.872889235814274;603.0911239726555,20.619333853721418;578.9577965754196,28.997962818410713;554.8244691781837,40.25151820050356;530.6911417809478,51.50507358259643;506.55781438371184,46.87762974527142;482.4244869864759,35.62407436317856;458.29115958924,24.370518981085702;434.1578321920041,25.246777691046425;410.0245047947682,36.50033307313928;385.89117739753226,47.75388845523214;361.75785000029634,59.007443837325006;337.62452260306054,70.26099921941787;313.4911952058249,81.51455460151074;289.3578678085892,92.76810998360361;265.22454041135353,104.02166536569648;241.09121301411784,115.27522074778929;216.95788561688215,126.5287761298821;192.82455821964646,137.78233151197492;168.6912308224108,149.03588689406772;144.5579034251751,160.28944227616051;120.42457602793942,171.54299765825334;128.57286236552636,154.62517520278988;143.17747145007783,132.3593854461377;157.7820805346293,142.4638598377681;172.38668961918074,164.72964959442027;191.64819687645442,167.3282933752977;215.56660230645025,155.62488012589313;239.4850077364461,143.92146687648855;263.40341316644196,132.21805362708398;287.32181859643777,120.51464037767938;311.2402240264336,108.8112271282748;335.1586294564295,97.10781387887018;359.07703488642534,85.40440062946553;382.9954403164212,73.7009873800609;406.91384574641705,61.99757413065625;430.8322511764129,50.29416088125161;454.7506566064087,38.590747631846966;478.66906203640457,26.887334382442326;502.5874674664004,23.521137749801547;526.5058728963962,35.22455099920619;550.4242783263921,46.92796424861083;574.3426837563879,58.63137749801547;581.4071981900014,70.3347907474201;557.4887927600055,82.03820399682475;533.5703873300097,93.7416172462294;550.5520045249966,105.44503049563403;574.4704099549924,117.1484437450386;598.3888153849882,128.85185699444318;622.3072208149841,140.55527024384776;646.2256262449799,152.25868349325236;670.1440316749758,163.96209674265694;694.0624371049717,175.66550999206152;717.9808425349678,187.36892324146612;741.8992479649642,199.0723364908707;602.9320045249965,135.0471556254962;626.8504099549924,123.3437423760916;650.7688153849882,111.64032912668702;674.687220814984,99.93691587728242;698.6056262449799,88.23350262787778;722.5240316749762,76.53008937847314;746.4424371049724,64.82667612906849;770.3608425349688,69.4222754996031;783.3935990950006,81.12568874900774;759.4751936650043,92.82910199841238;735.556788235008,92.52829337529768;711.6383828050117,80.82488012589303;722.5656036199975,69.1214668764884;746.4840090499938,65.52113774980154;770.4024144799902,77.22455099920619;794.3208199099864,88.92796424861083;818.2392253399828,100.63137749801547;842.157630769979,112.33479074742007;841.4207972850019,124.03820399682466;817.5023918550055,135.74161724622923;836.5520045249968,147.44503049563383;860.4704099549932,159.1484437450384;884.3888153849895,170.85185699444298;907.6954787936454,164.2351430279179;930.696271191631,150.81785756979477;953.6970635896167,137.4005721116716;976.6978559876023,123.98328665354846;999.6986483855881,110.56600119542532;995.8796038010072,112.32864272906157;972.8788114030215,125.74592818718473;949.8780190050359,139.16321364530788;926.8772266070501,152.58049910343104;903.8764342090645,165.99778456155417;892.8244890423887,165.4050635942168;904.62,142.08025437686723;917.465749295944,135.3949364057832;930.3114985918879,158.71974562313278;938.417913910445,164.31573389199087;937.0456612742283,137.72293556796342;935.6734086380116,140.9163991620137;934.3011560017949,167.50919748604116;917.7629997434565,165.6601848277922;893.6418916740573,154.3804620694805;869.5207836046582,155.25986137915586;845.399675535259,166.53958413746756;821.2785674658599,177.81930689577928;797.1472766232635,163.80203718158933;773.0139492260275,152.54848179949653;748.8806218287916,157.12237025472854;724.7472944315557,168.37592563682136;700.6139670343198,179.62948101891416;676.4806396370839,190.88303640100696;578.9777787671273,142.9244074363179;554.8444513698914,131.67085205422507;530.7111239726555,120.41729667213225;506.5777965754196,109.16374129003944;482.4444691781837,97.91018590794661;458.31114178094776,86.65663052585374;434.17781438371185,75.40307514376087;410.04448698647593,64.149519761668;385.91115958924,52.89596437957513;361.7778321920041,41.64240899748226;337.64450479476835,30.388853615389408;313.51117739753266,19.62;289.377850000297,30.873555382092853;265.2445226030613,23.002037181589287;241.1111952058256,27.12237025472857;216.97786780858993,38.37592563682142;192.84454041135425,49.629481018914284;186.66444246574522,60.88303640100715;210.7977698629809,72.13659178310002;234.9310972602166,83.39014716519289;259.06442465745226,94.64370254728576;283.19775205468795,105.89725792937861;307.33107945192364,117.15081331147142;331.46440684915933,128.40436869356424;355.597734246395,139.65792407565704;379.73106164363094,150.91147945774986;403.86438904086685,162.16503483984266;427.99771643810277,173.18;449.63966429820056,157.66593886756905;471.2816121582983,142.1518777351381;492.923560018396,126.63781660270713;514.5655078784938,111.12375547027618;536.2074557385915,95.60969433784523;557.8494035986893,80.09563320541427;579.491351458787,64.5815720729833;578.5590260699511,49.06751094055235;556.9170782098533,33.5534498081214;535.2751303497556,19.62;513.6331824896579,35.13406113243096;491.99123462956015,50.64812226486192;470.34928676946237,66.16218339729288;448.70733890936464,81.67624452972383;427.0653910492669,97.1903056621548;405.4234431891692,112.70436679458575;383.7814953290714,128.2184279270167;362.13954746897366,143.7324890594477;340.49759960887593,159.24655019187864;318.8556517487782,173.18;342.9889791460139,161.9264446179072;367.1223065432497,150.67288923581438;391.2556339404856,139.41933385372158;415.3889613377215,128.16577847162876;439.52228873495744,116.91222308953596;463.65561613219336,105.65866770744316;487.7889435294293,94.40511232535029;511.9222709266652,83.15155694325743;511.31333630138204,71.89800156116456;487.1800089041461,60.64444617907169;463.0466815069102,49.39089079697882;438.9133541096743,38.13733541488595;414.78002671243837,26.8837800327931;390.64669931520245,23.371185127364285;366.51337191796654,34.62474050945714;342.38004452073073,45.87829589155;318.24671712349505,57.13185127364287;294.11338972625936,68.38540665573575;304.70888493149045,79.6389620378286;328.84221232872613,90.89251741992148;352.9755397259619,102.14607280201434;377.1088671231978,113.39962818410716;401.2421945204337,124.65318356619997;425.37552191766963,135.90673894829277;449.50884931490555,147.16029433038557;473.64217671214146,158.4138497124784;497.7755041093774,169.6674050945712;516.838910871105,159.2616594515853;533.3673573150784,160.058755411311;549.3216354732683,165.8025260741941;564.127577059891,143.67010429677634;578.9335186465137,121.5376825193586;586.9123430688962,99.40526074194084;572.1064014822736,77.27283896452303;557.3004598956508,55.14041718710524;542.4945183090281,33.00799540968747;527.6885767224054,26.997473925805927;512.8826351357827,49.1298957032237;498.07669354916004,71.2623174806415;483.27075196253736,93.3947392580593;468.4648103759146,115.52716103547708;453.65886878929194,137.65958281289483;438.85292720266926,159.79200459031256;437.0267419439994,169.42881487263574;461.1600693412353,158.17525949054294;485.29339673847124,146.92170410845011;509.42672413570716,135.66814872635732;533.5600515329431,124.4145933442645;557.693378930179,113.16103796217169;581.826706327415,101.90748258007888;605.9600337246509,90.65392719798601;630.0933611218868,87.37118512736428;613.2688938356367,98.62474050945715;589.1355664384008,109.87829589154998;565.0022390411649,121.1318512736428;540.868911643929,132.3854066557356;516.7355842466931,143.6389620378284;492.60225684945715,154.89251741992123;468.46892945222123,166.14607280201403;444.3356020549853,173.18;468.46892945222123,161.9264446179072;492.60225684945715,150.67288923581438;516.7355842466931,139.41933385372158;540.868911643929,128.16577847162876;565.0022390411649,116.91222308953596;589.1355664384008,105.65866770744316;613.2688938356367,94.40511232535029;633.38,83.62;609.2466726027641,94.87355538209287;585.1133452055282,106.12711076418572;560.9800178082922,117.38066614627853;536.8466904110563,128.63422152837134;512.7133630138204,139.88777691046414;488.5800356165845,151.14133229255697;464.4467082193486,162.39488767464977;440.31338082211266,173.64844305674256;448.35782328785797,165.67762974527147;472.4911506850939,154.42407436317865;496.6244780823298,143.17051898108585;520.7578054795657,131.91696359899305;544.8911328768016,120.66340821690024;569.0244602740376,109.40985283480742;593.1577876712735,98.15629745271458;617.2911150685094,86.90274207062171;629.3577787671273,91.12237025472858;605.2244513698914,102.37592563682145;581.0911239726555,113.62948101891426;556.9577965754196,124.88303640100706;532.8244691781837,136.13659178309987;508.69114178094776,147.39014716519267;484.55781438371184,158.6437025472855;460.4244869864759,169.8972579293783;452.3800445207306,169.42881487263574;476.51337191796654,158.17525949054294;500.64669931520245,146.92170410845011;524.7800267124384,135.66814872635732;548.9133541096743,124.4145933442645;573.0466815069102,113.16103796217169;597.1800089041461,101.90748258007888;621.313336301382,90.65392719798601;625.3355575342547,87.37118512736428;601.2022301370188,98.62474050945715;577.0689027397829,109.87829589154998;552.9355753425469,121.1318512736428;528.802247945311,132.3854066557356;504.6689205480751,143.6389620378284;480.5355931508392,154.89251741992123;456.4022657536033,166.14607280201403;432.26893835636736,173.18;456.4022657536033,161.9264446179072;480.5355931508392,150.67288923581438;504.6689205480751,139.41933385372158;528.802247945311,128.16577847162876;552.9355753425469,116.91222308953596;577.0689027397829,105.65866770744316;601.2022301370188,94.40511232535029;625.3355575342547,83.15155694325743;649.4688849314906,71.89800156116456;673.6022123287265,60.64444617907169;661.2911150685094,49.39089079697885;637.1577876712735,38.13733541488601;613.0244602740376,26.88378003279316;588.8911328768016,23.371185127364285;564.7578054795657,34.62474050945714;540.6244780823298,45.87829589154998;516.4911506850939,57.131851273642816;492.35782328785797,68.38540665573568;468.22449589062205,79.63896203782855;444.09116849338614,90.89251741992142;419.9578410961502,102.14607280201429;395.8245136989143,113.3996281841071;371.6911863016784,124.6531835661999;347.5578589044425,135.9067389482927;323.42453150720684,147.1602943303855;299.29120410997115,158.41384971247834;275.1578767127355,169.66740509457114;267.11343424699027,169.42881487263574;291.24676164422596,158.17525949054294;315.38008904146164,146.92170410845011;339.5134164386973,135.66814872635732;363.6467438359331,124.4145933442645;387.780071233169,113.16103796217169;411.9133986304049,101.90748258007888;436.04672602764083,90.65392719798601;460.18005342487675,79.40037181589314;484.31338082211266,68.14681643380027;508.4467082193486,56.89326105170741;532.5800356165845,45.63970566961457;556.7133630138204,34.38615028752173;580.8466904110563,23.132594905428874;604.9800178082922,27.12237025472857;629.1133452055282,38.37592563682142;653.2466726027641,49.62948101891426;677.38,60.883036401007104;701.5133273972359,72.13659178309997;725.6466547944718,83.39014716519284;749.7799821917077,94.64370254728571;773.9133095889437,105.89725792937855;798.0466369861796,117.15081331147137;822.1799643834155,112.87762974527146;846.3132917806514,101.62407436317864;837.2911150685094,90.37051898108578;813.1577876712735,79.11696359899291;789.0244602740376,67.86340821690004;764.8911328768016,65.3711851273643;740.7578054795657,76.62474050945715;716.6244780823298,87.87829589155002;692.4911506850939,98.38;668.357823287858,87.12644461790714;644.224495890622,75.87288923581426;620.0911684933861,64.6193338537214;595.9578410961502,53.365778471628545;571.8245136989143,42.11222308953571;547.6911863016784,30.858667707442862;523.5578589044425,19.62;499.42453150720655,30.873555382092853;475.29120410997064,42.1271107641857;451.1578767127347,53.38066614627854;427.0245493154988,64.6342215283714;402.8912219182629,75.88777691046425;378.75789452102697,87.14133229255712;354.62456712379105,98.39488767465;330.49123972655536,109.64844305674282;306.3579123293197,120.90199843883563;282.224584932084,132.15555382092845;258.0912575348483,143.40910920302125;233.95793013761264,154.66266458511407;209.82460274037695,165.91621996720687;185.69127534314126,173.18;209.82460274037695,161.9264446179072;233.95793013761264,150.67288923581438;258.0912575348483,139.41933385372158;282.224584932084,128.16577847162876;306.3579123293197,116.91222308953596;330.49123972655536,105.65866770744316;354.62456712379105,94.40511232535029;378.75789452102697,83.15155694325743;402.8912219182629,71.89800156116456;427.0245493154988,60.64444617907169;451.1578767127347,49.39089079697885;475.29120410997064,38.13733541488601;499.42453150720655,26.88378003279316;523.5578589044425,23.371185127364285;547.6911863016784,34.62474050945714;571.8245136989143,45.87829589154998;595.9578410961502,57.131851273642816;620.0911684933861,68.38540665573568;644.224495890622,79.63896203782855;668.357823287858,90.89251741992142;692.4911506850939,102.14607280201429;716.6244780823298,113.3996281841071;740.7578054795657,124.6531835661999;764.8911328768016,135.9067389482927;787.38,147.1602943303855;763.2466726027641,158.41384971247834;739.1133452055282,169.66740509457114;746.7048977927589,164.77444014469643;770.158890372223,152.16610036174103;793.6128829516871,139.55776057878566;817.0668755311511,126.94942079583028;840.5208681106152,114.34108101287491;845.5620024735119,101.73274122991951;822.1080098940479,89.12440144696407;798.6540173145838,76.51606166400865;775.2000247351197,63.9077218810532;751.7460321556556,51.29938209809776;728.2920395761915,38.691042315142326;706.62,26.082702532186886;730.0739925794641,23.82277992765181;753.5279851589281,36.43111971060725;776.9819777383922,49.03945949356268;800.4359703178563,61.647799276518114;823.8899628973204,74.25613905947355;847.3439554767845,86.864478842429;870.7979480562485,99.47281862538443;859.7440049470239,112.08115840833982;836.2900123675598,124.6894981912952;812.8360197880958,137.29783797425057;789.3820272086317,149.90617775720597;765.9280346291675,162.51451754016134;742.4740420497035,173.18;741.1178043362062,146.5863801022785;739.7615666227089,119.99276020455699;738.4053289092116,93.3991403068355;737.0490911957143,66.80552040911405;735.692853482217,40.21190051139261;734.3366157687196,24.052269982953575;732.9803780552223,50.64588988067503;731.624140341725,77.2395097783965;730.2679026282277,103.83312967611793;728.9116649147304,130.42674957383946;727.5554272012331,157.02036947156097;733.7423334159243,167.8413441765149;755.0155274869925,151.8253767060596;776.2887215580607,135.80940923560428;797.5619156291289,119.79344176514896;818.8351097001971,103.77747429469365;840.1083037712652,87.76150682423832;846.2889353096439,71.74553935378302;825.0157412385757,55.729571883327694;803.7425471675075,39.71360441287238;782.4693530964394,23.697636942417063;761.1961590253711,30.297311646970208;739.922964954303,46.31327911742552;718.6497708832347,62.32924658788084;697.3765768121667,78.34521405833615;676.103382741099,94.36118152879148;654.8301886700312,110.37714899924678;633.5569945989636,126.39311646970211;612.2838005278959,142.40908394015742;591.0106064568281,158.42505141061272;569.7374123857604,173.18;593.8707397829963,161.9264446179072;618.0040671802323,150.67288923581438;642.1373945774682,139.41933385372158;666.2707219747041,128.16577847162876;690.40404937194,116.91222308953596;714.5373767691759,105.65866770744316;738.6707041664118,94.40511232535029;762.8040315636478,83.15155694325743;786.9373589608837,71.89800156116456;811.0706863581196,60.64444617907169;835.2040137553555,49.39089079697885;859.3373411525914,38.13733541488601;883.4706685498273,26.88378003279316;907.6039959470633,23.371185127364285;931.7373233442992,34.62474050945714;955.8706507415351,45.87829589154998;980.003978138771,57.131851273642816;1004.1373055360069,68.38540665573568;987.2688938356367,79.63896203782855;963.1355664384008,90.89251741992142;939.0022390411649,102.14607280201429;914.868911643929,113.3996281841071;916.686663698618,124.6531835661999;940.8199910958539,135.9067389482927;964.9533184930898,147.1602943303855;989.0866458903257,158.41384971247834;1013.2199732875616,169.66740509457114;1036.8260327425558,164.63752644384022;1060.168458226429,151.8238161096005;1083.5108837103023,139.0101057753608;1087.5991915053755,126.1963954411211;1064.2567660215022,113.38268510688138;1074.1816169892488,100.5689747726417;1095.3799999999999,87.75526443840205;1072.0375745161266,74.9415541041624;1048.6951490322533,62.12784376992275;1025.35272354838,49.314133435683104;1002.0102980645067,36.50042310144345;978.6678725806335,23.6867127672038;955.3254470967601,28.162473556159767;931.9830216128868,40.97618389039941;942.1816169892488,53.78989422463906;965.5240424731221,66.60360455887871;988.8664679569955,79.41731489311836;1003.4895957526878,92.23102522735802;980.1471702688144,105.04473556159766;956.8047447849411,117.85844589583735;933.4623193010679,130.67215623007706;910.1198938171945,143.48586656431678;886.7774683333212,137.35173312863355;863.4350428494479,124.53802279439383;840.0926173655746,111.72431246015412;816.7501918817013,98.91060212591444;793.4077663978279,86.09689179167478;770.0653409139546,73.28318145743513;746.7229154300813,60.46947112319548;723.380489946208,47.65576078895583;700.0380644623345,34.84205045471619;692.4008084946246,22.028340120476535;715.7432339784982,28.162473556159767;739.0856594623715,40.97618389039941;762.4280849462448,53.78989422463906;785.7705104301181,66.60360455887871;809.1129359139915,79.41731489311836;832.4553613978647,92.23102522735802;855.797786881738,105.04473556159766;875.38,117.85844589583735;852.0375745161267,130.67215623007706;828.6951490322533,143.48586656431678;805.35272354838,156.29957689855647;782.0102980645067,169.11328723279618;762.1383034386841,160.18226959355968;744.0015242418868,140.6856739838992;725.8647450450895,121.1890783742387;707.7279658482922,101.69248276457822;689.5911866514954,82.19588715491773;671.4544074546985,62.69929154525724;653.3176282579018,43.20269593559675;635.1808490611049,23.706100325936266;617.0440698643082,32.61773040644032;598.9072906675113,52.11432601610081;580.7705114707145,71.6109216257613;562.6337322739178,91.1075172354218;544.4969530771209,110.60411284508228;526.360173880324,130.10070845474277;508.2233946835273,149.59730406440326;490.08661548673047,169.09389967406375;486.8939167549764,155.65861958355754;491.1732582557436,129.3765489588938;495.4525997565108,103.0944783342301;499.731941257278,76.81240770956646;504.0112827580452,50.53033708490278;508.2906242588124,24.24826646023911;512.5699657595795,37.14138041644245;516.8493072603468,63.423451041106134;521.1286487611139,89.70552166576978;525.4079902618812,115.98759229043345;529.6873317626483,142.26966291509717;533.9666732634156,168.55173353976087;551.4732191302696,165.65881634460123;575.593367180167,154.37704086150308;599.7135152300643,143.09526537840492;623.8336632799618,131.81348989530676;647.9538113298591,120.5317144122086;672.0739593797565,109.24993892911044;696.194107429654,97.96816344601228;720.314255479551,86.68638796291413;744.4344035294479,75.40461247981597;768.5545515793448,64.12283699671781;792.6746996292418,52.84106151361967;816.7948476791387,41.55928603052154;840.9149957290356,30.27751054742341;865.0351437789325,19.62;889.1552918288294,30.90177548309813;913.2754398787264,42.183550966196265;937.3955879286233,53.465326449294395;961.5157359785202,64.74710193239254;985.6358840284172,76.0288774154907;1007.38,87.31065289858886;983.2598519501031,98.59242838168701;959.1397039002061,109.87420386478517;935.0195558503092,121.15597934788333;910.8994078004123,132.43775483098148;886.7792597505154,143.71953031407963;862.6591117006184,155.0013057971778;838.5389636507215,166.28308128027595;827.457898646983,165.84555342586958;842.4549997355616,143.84221370347825;857.4521008241401,121.83887398108693;872.4492019127186,99.8355342586956;887.4463030012971,77.83219453630423;892.3809663038071,55.82885481391286;877.3838652152286,33.82551509152152;862.3867641266501,26.95444657413045;847.3896630380716,48.957786296521796;832.392561949493,70.96112601891316;817.3954608609146,92.96446574130454;802.398359772336,114.96780546369588;787.4012586837575,136.9711451860872;772.404157595179,158.97448490847853;768.983669039965,167.22014252811064;788.71640555148,149.34057011244252;808.4491420629951,131.46099769677443;828.18187857451,113.58142528110629;847.914615086025,95.70185286543818;867.64735159754,86.59992873594469;887.3800881090551,92.42014252811063;907.1128246205701,74.54057011244251;926.8455611320851,56.6609976967744;946.5782976436001,38.78142528110629;966.3110341551152,20.901852865438173;986.0437706666302,34.51964367972342;1005.7765071781452,52.39921609539154;1025.5092436896603,42.46028505622126;1045.2419802011752,24.580712640553145;1064.9747167126902,31.539714943778737;1084.7074532242052,49.419287359446855;1088.8024211628283,67.29885977511496;1069.0696846513133,85.17843219078307;1049.3369481397983,95.40007126405531;1029.6042116282833,86.59992873594469;1009.8714751167682,104.4795011516128;990.1387386052533,122.35907356728092;970.4060020937383,140.23864598294904;950.6732655822232,158.11821839861716;930.9405290707082,173.18;918.6858295779641,149.53930753250782;906.4311300852202,125.89861506501566;894.1764305924761,102.25792259752347;882.62,78.61723013003123;894.874699492744,54.976537662539;907.129398985488,31.335845195046765;919.3840984782321,31.440346233746116;931.6387979709762,55.08103870123835;943.8934974637201,78.72173116873059;956.1481969564642,102.36242363622281;968.4028964492082,126.003116103715;980.6575959419523,149.6438085712072;992.9122954346963,173.18;972.0775324093463,156.59770071197892;951.2427693839963,140.01540142395783;930.4080063586464,123.4331021359367;909.5732433332963,106.8508028479156;888.7384803079464,90.2685035598945;867.9037172825964,91.91114964401055;847.0689542572464,108.49344893203165;826.2341912318964,125.07574822005276;805.3994282065464,141.65804750807385;784.5646651811965,158.24034679609497;763.7299021558465,173.18;740.2531528014139,160.6140842057108;716.7764034469814,148.04816841142159;693.2996540925491,135.48225261713236;669.822904738117,122.91633682284316;646.346155383685,110.35042102855395;622.8694060292529,97.78450523426477;599.3926566748207,85.21858943997562;575.9159073203887,72.65267364568646;552.62,60.086757851397316;576.0967493544321,47.52084205710813;599.5734987088642,34.95492626281896;623.0502480632963,22.389010468529776;646.5269974177284,27.997277196192783;670.0037467721604,40.563192990481966;693.4804961265925,53.12910878477115;716.9572454810248,65.69502457906032;740.4339948354573,78.26094037334946;763.9107441898899,90.82685616763861;787.3874935443224,103.39277196192778;810.8642428987549,115.95868775621699;834.3409922531876,128.52460355050619;857.8177416076201,141.0905193447954;881.2944909620526,153.65643513908464;904.7712403164851,166.22235093337383;920.3129768789729,171.3044074363179;896.179649481737,160.05085205422506;872.0463220845011,148.79729667213226;847.9129946872652,137.54374129003946;823.7796672900292,126.29018590794664;799.6463398927933,115.03663052585382;775.5130124955574,103.78307514376101;751.3796850983215,92.52951976166815;727.2463577010856,81.27596437957529;703.1130303038497,70.02240899748242;678.9797029066137,58.76885361538955;654.8463755093778,47.51529823329671;630.7130481121419,36.26174285120387;606.579720714906,25.008187469111018;582.4463933176701,25.246777691046425;558.3130659204342,36.50033307313928;534.1797385231982,47.75388845523212;510.0464111259623,59.007443837324956;485.9130837287264,70.26099921941783;461.7797563314905,81.5145546015107;437.6464289342546,92.76810998360357;413.51310153701866,104.02166536569642;389.37977413978274,115.27522074778923;365.2464467425468,126.52877612988203;341.113119345311,137.78233151197486;316.97979194807533,149.03588689406766;292.8464645508397,160.28944227616046;268.713137153604,171.54299765825328;244.57980975636832,182.79655304034608;220.44648235913263,194.05010842243894;574.9555575342547,141.04881487263575;550.8222301370188,129.79525949054295;526.6889027397829,118.54170410845012;502.55557534254694,107.2881487263573;478.422247945311,96.03459334426447;454.2889205480751,84.7810379621716;430.1555931508392,73.52748258007873;406.0222657536033,62.273927197985856;381.88893835636736,51.020371815893014;357.75561095913145,39.76681643380017;333.6222835618957,28.513261051707325;309.48895616466007,21.49559256368214;285.3556287674244,32.74914794577499;261.2223013701887,44.00270332786784;237.088973972953,55.256258709960676;212.9556465757173,66.50981409205355;188.82231917848162,77.7633694741464;190.68666369861785,89.01692485623927;173.2688938356369,100.27048023833214;149.13556643840124,111.52403562042497;125.00223904116555,122.77759100251777;100.86891164392986,134.03114638461057;76.73558424669419,145.2847017667034;52.6022568494585,156.5382571487962;28.468929452222802,167.79181253088902;6.032800972332926,164.8290000508946;21.902441302120035,148.12700015268373;42.641370864664076,131.4250002544729;63.38030042720812,114.72300035626206;84.11922998975216,98.02100045805122;104.85815955229616,81.31900055984038;125.59708911484014,64.61700066162953;110.09755869788002,47.91500076341866;89.35862913533603,31.2130008652078;68.61969957279199,22.40366664970181;47.88077001024794,39.10566654791267;27.141840447703906,55.80766644612354;6.402910885159865,72.50966634433439;21.902441302120035,89.21166624254523;42.641370864664076,105.91366614075608;63.38030042720812,122.61566603896692;84.11922998975216,139.31766593717776;104.85815955229616,156.01966583538862;125.59708911484014,172.72166573359945;144.4517983852565,157.20196609387736;162.92966359724733,138.02832540653014;181.4075288092382,118.85468471918297;199.88539402122905,99.68104403183577;218.36325923321988,80.50740334448858;236.8411244452107,61.33376265714139;255.31898965720154,42.160121969794176;273.7968548691924,22.986481282446952;292.2747200811832,32.402427124898146;310.7525852931741,51.57606781224537;329.2304505051649,70.74970849959257;347.70831571715576,89.92334918693976;366.18618092914676,109.09698987428695;384.6640461411379,128.27063056163414;403.14191135312893,147.44427124898132;421.61977656512,166.61791193632854;442.79483827901157,167.28137118309374;466.6670964948036,155.4841135492812;490.53935471059566,143.68685591546864;514.4116129263878,131.8895982816561;538.2838711421798,120.09234064784357;562.1561293579718,108.29508301403102;586.0283875737639,96.49782538021849;609.9006457895559,84.70056774640594;633.772904005348,72.9033101125934;657.6451622211401,61.10605247878086;681.5174204369322,49.30879484496834;705.3896786527241,37.511537211155826;729.2619368685157,25.714279577343312;753.1341950843073,23.55241921127084;777.0064533000989,35.34967684508335;800.8787115158905,47.146934478895865;824.7509697316821,58.94419211270838;848.6232279474737,70.74144974652091;872.4954861632652,82.53870738033346;896.3677443790568,94.335965014146;920.2400025948484,106.13322264795855;944.11226081064,117.93048028177108;967.9845190264316,129.72773791558365;991.8567772422232,141.52499554939618;1015.7290354580148,153.32225318320872;1039.6012936738064,165.11951081702125;1063.473551889598,176.91676845083379;1087.3458101053895,188.71402608464635;583,144.8;606.872258215792,133.00274236618748;630.7445164315841,121.20548473237493;654.6167746473761,109.40822709856238;678.4890328631682,97.61096946474984;702.3612910789603,85.8137118309373;726.2335492947519,74.01645419712476;750.1058075105435,62.21919656331221;773.9780657263351,50.421938929499696;797.8503239421267,38.62468129568718;821.7225821579183,26.82742366187467;845.5948403737099,23.55241921127084;869.4670985895015,35.34967684508335;893.339356805293,47.146934478895865;917.2116150210846,58.94419211270838;941.0838732368762,70.74144974652091;964.9561314526678,82.53870738033346;988.8283896684594,94.335965014146;1012.700647884251,106.13322264795855;1036.5729061000425,117.93048028177108;1060.445164315834,112.5151615774583;1084.3174225316257,100.71790394364577;1108.1896807474172,88.92064630983322;1105.443870892104,89.51862881690627;1081.5716126763125,101.3158864507188;1057.699354460521,113.11314408453136;1033.8270962447293,124.9104017183439;1009.9548380289378,136.70765935215644;986.0825798131463,148.50491698596898;962.2103215973547,160.3021746197815;938.3380633815631,172.09943225359407;946.4695289077898,165.67762974527147;970.6028563050257,154.42407436317865;994.7361837022617,143.17051898108585;1018.8695110994976,131.91696359899305;1043.0028384967334,120.66340821690024;1067.1361658939693,109.40985283480742;1091.2694932912052,98.15629745271458;1115.4028206884411,86.90274207062171;1097.2688938356366,75.64918668852886;1073.1355664384007,64.39563130643597;1049.0022390411648,53.14207592434313;1024.8689116439289,41.88852054225029;1000.7355842466931,30.634965160157453;976.6022568494571,19.62;952.4689294522212,30.873555382092842;928.3356020549853,42.12711076418568;904.2022746577494,53.38066614627852;880.0689472605135,64.63422152837137;855.9356198632776,75.88777691046424;831.8022924660416,87.14133229255711;807.6689650688057,98.39488767464998;783.5356376715698,109.6484430567428;759.4023102743339,120.90199843883562;735.268982877098,132.15555382092842;711.1356554798621,143.40910920302125;687.0023280826261,154.66266458511404;662.8690006853902,165.91621996720684;638.7356732881543,173.18;662.8690006853902,161.9264446179072;687.0023280826261,150.67288923581438;711.1356554798621,139.41933385372158;735.268982877098,128.16577847162876;759.4023102743339,116.91222308953596;783.5356376715698,105.65866770744316;807.6689650688057,94.40511232535029;831.8022924660416,83.15155694325743;855.9356198632776,71.89800156116456;880.0689472605135,60.64444617907169;904.2022746577494,49.39089079697885;928.3356020549853,38.13733541488601;952.4689294522212,26.883780032793176;976.6022568494571,23.371185127364285;1000.7355842466931,34.624740509457126;1024.8689116439289,45.87829589154996;1049.0022390411648,57.1318512736428;1073.1355664384007,68.38540665573566;1097.2688938356366,79.63896203782853;1117.3799999999999,90.8925174199214;1093.246672602764,102.14607280201426;1069.113345205528,113.39962818410707;1044.9800178082921,124.65318356619989;1020.8466904110563,135.90673894829268;996.7133630138204,147.1602943303855;972.5800356165845,158.4138497124783;948.4467082193486,169.6674050945711;956.3313601472012,165.34407442750904;980.225001737598,153.59018606877262;1004.1186433279948,141.83629771003618;1028.0122849183917,130.08240935129976;1051.9059265087885,118.32852099256331;1075.7995680991853,106.57463263382687;1099.693209689582,94.82074427509039;1123.586851279979,83.62;1131.415452803201,95.3738883587365;1107.521811212804,107.12777671747297;1083.6281696224073,118.8816650762094;1059.7345280320105,130.63555343494585;1035.8408864416137,142.3894417936823;1011.9472448512169,154.1433301524187;988.05360326082,165.89721851115516;979.694474733149,168.5453413034887;1002.4043723309296,154.64136521395474;1025.1142699287104,140.73738912442076;1047.824167526491,126.83341303488682;1070.5340651242716,112.92943694535285;1093.2439627220524,99.02546085581889;1115.953860319833,85.12148476628494;1138.6637579176136,95.2066467412783;1120.4550853351827,109.11062283081226;1097.7451877374021,123.01459892034622;1075.0352901396213,136.91857500988016;1052.3253925418408,150.82255109941414;1029.6154949440602,164.7265271889481;1021.2021526425215,167.3888482077901;1041.381920933467,150.01539283116037;1061.5616892244127,132.64193745453065;1081.7414575153582,115.26848207790091;1101.9212258063037,97.89502670127119;1122.1009940972492,80.52157132464146;1142.280762388195,63.14811594801173;1161.3799999999999,45.774660571382;1141.2002317090544,48.306727688314865;1121.0204634181089,65.6801830649446;1100.8406951271634,83.05363844157432;1080.6609268362176,100.42709381820404;1060.4811585452721,117.80054919483378;1040.3013902543266,135.1740045714635;1020.121621963381,152.54745994809323;999.9418536724355,169.92091532472296;1009.3041491736109,165.67762974527147;1033.437476570847,154.42407436317865;1057.5708039680828,143.17051898108585;1081.7041313653187,131.91696359899305;1105.8374587625547,120.66340821690024;1129.9707861597906,109.40985283480742;1154.1041135570265,98.15629745271458;1145.2911150685093,86.90274207062171;1121.1577876712734,75.64918668852886;1097.0244602740374,64.39563130643597;1072.8911328768015,53.14207592434313;1048.7578054795656,41.88852054225029;1024.6244780823297,30.634965160157453;1000.4911506850939,19.62;976.357823287858,30.87355538209284;952.224495890622,42.12711076418568;928.0911684933861,53.38066614627852;903.9578410961502,64.63422152837137;879.8245136989143,75.88777691046424;855.6911863016784,87.14133229255711;831.5578589044425,98.39488767464998;807.4245315072066,109.6484430567428;783.2912041099706,120.90199843883562;759.1578767127347,132.15555382092842;735.0245493154988,143.40910920302125;710.8912219182629,154.66266458511404;686.757894521027,165.91621996720684;662.624567123791,173.18;686.757894521027,161.9264446179072;710.8912219182629,150.67288923581438;735.0245493154988,139.41933385372158;759.1578767127347,128.16577847162876;783.2912041099706,116.91222308953596;807.4245315072066,105.65866770744316;831.5578589044425,94.40511232535029;855.6911863016784,83.15155694325743;879.8245136989143,71.89800156116456;903.9578410961502,60.64444617907169;928.0911684933861,49.39089079697885;952.224495890622,38.13733541488601;976.357823287858,26.883780032793176;1000.4911506850939,23.37118512736428;1024.6244780823297,34.62474050945712;1048.7578054795656,45.87829589154996;1072.8911328768015,57.1318512736428;1097.0244602740374,68.38540665573566;1121.1577876712734,79.63896203782853;1145.2911150685093,90.8925174199214;1153.3355575342546,102.14607280201426;1129.2022301370187,113.39962818410707;1105.0689027397827,124.65318356619989;1080.9355753425468,135.90673894829268;1056.802247945311,147.1602943303855;1032.668920548075,158.4138497124783;1008.5355931508392,169.6674050945711;1000.4911506850939,169.42881487263574;1024.6244780823297,158.17525949054294;1048.7578054795656,146.92170410845011;1072.8911328768015,135.66814872635732;1097.0244602740374,124.4145933442645;1121.1577876712734,113.16103796217169;1145.2911150685093,101.90748258007888;1153.3355575342546,90.65392719798601;1129.2022301370187,79.40037181589314;1105.0689027397827,68.14681643380027;1080.9355753425468,56.89326105170741;1056.802247945311,45.63970566961457;1032.668920548075,34.38615028752173;1008.5355931508392,23.132594905428896;984.4022657536033,27.12237025472856;960.2689383563674,38.37592563682141;936.1356109591314,49.62948101891424;912.0022835618955,60.88303640100708;887.8689561646596,72.13659178309996;863.7356287674237,83.39014716519281;839.6023013701878,94.64370254728568;815.4689739729519,105.89725792937854;791.3356465757159,117.15081331147135;767.20231917848,128.40436869356415;743.0689917812441,139.65792407565698;718.9356643840082,150.91147945774978;694.8023369867723,162.16503483984258;670.6690095895364,173.4185902219354;678.7134520552817,165.67762974527147;702.8467794525176,154.42407436317865;726.9801068497535,143.17051898108585;751.1134342469894,131.91696359899305;775.2467616442253,120.66340821690024;799.3800890414612,109.40985283480742;823.5134164386972,98.15629745271458;847.6467438359331,86.90274207062171;871.780071233169,75.64918668852886;895.9133986304049,64.39563130643597;920.0467260276408,53.14207592434313;944.1800534248767,41.88852054225029;968.3133808221127,30.634965160157453;992.4467082193486,19.62;1016.5800356165845,30.87355538209284;1040.7133630138203,42.12711076418568;1064.8466904110562,53.38066614627852;1088.9800178082921,64.63422152837137;1113.113345205528,75.88777691046424;1137.246672602764,87.14133229255711;1161.3799999999999,98.39488767464998;1137.246672602764,109.6484430567428;1113.113345205528,120.90199843883562;1088.9800178082921,132.15555382092842;1064.8466904110562,143.40910920302125;1040.7133630138203,154.66266458511404;1016.5800356165845,165.91621996720684;992.4467082193486,173.18;1016.5800356165845,161.9264446179072;1040.7133630138203,150.67288923581438;1064.8466904110562,139.41933385372158;1088.9800178082921,128.16577847162876;1113.113345205528,116.91222308953596;1137.246672602764,105.65866770744316;1161.3799999999999,94.40511232535029;1137.246672602764,83.15155694325743;1113.113345205528,71.89800156116456;1088.9800178082921,60.64444617907169;1064.8466904110562,49.39089079697885;1040.7133630138203,38.13733541488601;1016.5800356165845,26.883780032793176;992.4467082193486,23.37118512736428;968.3133808221127,34.62474050945712;944.1800534248767,45.87829589154996;920.0467260276408,57.1318512736428;895.9133986304049,68.38540665573566;871.780071233169,79.63896203782853;847.6467438359331,90.8925174199214;823.5134164386972,102.14607280201426;799.3800890414612,113.39962818410707;775.2467616442253,124.65318356619989;751.1134342469894,135.90673894829268;726.9801068497535,147.1602943303855;702.8467794525176,158.4138497124783;678.7134520552817,169.6674050945711;670.6690095895364,169.42881487263574;694.8023369867723,158.17525949054294;718.9356643840082,146.92170410845011;743.0689917812441,135.66814872635732;767.20231917848,124.4145933442645;791.3356465757159,113.16103796217169;815.4689739729519,101.90748258007888;839.6023013701878,90.65392719798601;863.7356287674237,79.40037181589314;887.8689561646596,68.14681643380027;912.0022835618955,56.89326105170741;936.1356109591314,45.63970566961457;960.2689383563674,34.38615028752173;984.4022657536033,23.132594905428896;1008.5355931508392,27.12237025472856;1032.668920548075,38.37592563682141;1056.802247945311,49.62948101891424;1080.9355753425468,60.88303640100708;1105.0689027397827,72.13659178309996;1129.2022301370187,83.39014716519281;1153.3355575342546,94.64370254728568;1145.2911150685093,105.89725792937854;1121.1577876712734,117.15081331147135;1097.0244602740374,128.40436869356415;1072.8911328768015,139.65792407565698;1048.7578054795656,150.91147945774978;1024.6244780823297,162.16503483984258;1000.4911506850939,173.4185902219354;1008.5355931508392,165.67762974527147;1032.668920548075,154.42407436317865;1056.802247945311,143.17051898108585;1080.9355753425468,131.91696359899305;1105.0689027397827,120.66340821690024;1129.2022301370187,109.40985283480742;1153.3355575342546,98.15629745271458;1145.2911150685093,86.90274207062171;1121.1577876712734,75.64918668852886;1097.0244602740374,64.39563130643597;1072.8911328768015,53.14207592434313;1048.7578054795656,41.88852054225029;1024.6244780823297,30.634965160157453;1000.4911506850939,19.62;976.357823287858,30.87355538209284;952.224495890622,42.12711076418568;928.0911684933861,53.38066614627852;903.9578410961502,64.63422152837137;879.8245136989143,75.88777691046424;855.6911863016784,87.14133229255711;831.5578589044425,98.39488767464998;807.4245315072066,109.6484430567428;783.2912041099706,120.90199843883562;759.1578767127347,132.15555382092842;735.0245493154988,143.40910920302125;710.8912219182629,154.66266458511404;686.757894521027,165.91621996720684;662.624567123791,173.18;686.757894521027,161.9264446179072;710.8912219182629,150.67288923581438;735.0245493154988,139.41933385372158;759.1578767127347,128.16577847162876;783.2912041099706,116.91222308953596;807.4245315072066,105.65866770744316;831.5578589044425,94.40511232535029;855.6911863016784,83.15155694325743;879.8245136989143,71.89800156116456;903.9578410961502,60.64444617907169;928.0911684933861,49.39089079697885;952.224495890622,38.13733541488601;976.357823287858,26.883780032793176;1000.4911506850939,23.37118512736428;1024.6244780823297,34.62474050945712;1048.7578054795656,45.87829589154996;1072.8911328768015,57.1318512736428;1097.0244602740374,68.38540665573566;1121.1577876712734,79.63896203782853;1145.2911150685093,90.8925174199214;1153.3355575342546,102.14607280201426;1129.2022301370187,113.39962818410707;1105.0689027397827,124.65318356619989;1080.9355753425468,135.90673894829268;1056.802247945311,147.1602943303855;1032.668920548075,158.4138497124783;1008.5355931508392,169.6674050945711;1000.4911506850939,169.42881487263574;1024.6244780823297,158.17525949054294;1048.7578054795656,146.92170410845011;1072.8911328768015,135.66814872635732;1097.0244602740374,124.4145933442645;1121.1577876712734,113.16103796217169;1145.2911150685093,101.90748258007888;1153.3355575342546,90.65392719798601;1129.2022301370187,79.40037181589314;1105.0689027397827,68.14681643380027;1080.9355753425468,56.89326105170741;1056.802247945311,45.63970566961457;1032.668920548075,34.38615028752173;1008.5355931508392,23.132594905428896;984.4022657536033,27.12237025472856;960.2689383563674,38.37592563682141;936.1356109591314,49.62948101891424;912.0022835618955,60.88303640100708;887.8689561646596,72.13659178309996;863.7356287674237,83.39014716519281;839.6023013701878,94.64370254728568;815.4689739729519,105.89725792937854;791.3356465757159,117.15081331147135;767.20231917848,128.40436869356415;743.0689917812441,139.65792407565698;718.9356643840082,150.91147945774978;694.8023369867723,162.16503483984258;670.6690095895364,173.4185902219354;678.7134520552817,165.67762974527147;702.8467794525176,154.42407436317865;726.9801068497535,143.17051898108585;751.1134342469894,131.91696359899305;775.2467616442253,120.66340821690024;799.3800890414612,109.40985283480742;823.5134164386972,98.15629745271458;847.6467438359331,86.90274207062171;871.780071233169,75.64918668852886;895.9133986304049,64.39563130643597;920.0467260276408,53.14207592434313;944.1800534248767,41.88852054225029;968.3133808221127,30.634965160157453;992.4467082193486,19.62;1016.5800356165845,30.87355538209284;1040.7133630138203,42.12711076418568;1064.8466904110562,53.38066614627852;1088.9800178082921,64.63422152837137;1113.113345205528,75.88777691046424;1137.246672602764,87.14133229255711;1161.3799999999999,98.39488767464998;1137.246672602764,109.6484430567428;1113.113345205528,120.90199843883562;1088.9800178082921,132.15555382092842;1064.8466904110562,143.40910920302125;1040.7133630138203,154.66266458511404;1016.5800356165845,165.91621996720684;992.4467082193486,173.18;1016.5800356165845,161.9264446179072;1040.7133630138203,150.67288923581438;1064.8466904110562,139.41933385372158;1088.9800178082921,128.16577847162876;1113.113345205528,116.91222308953596;1137.246672602764,105.65866770744316;1161.3799999999999,94.40511232535029;1137.246672602764,83.15155694325743;1113.113345205528,71.89800156116456;1088.9800178082921,60.64444617907169;1064.8466904110562,49.39089079697885;1040.7133630138203,38.13733541488601;1016.5800356165845,26.883780032793176;992.4467082193486,23.37118512736428;968.3133808221127,34.62474050945712;944.1800534248767,45.87829589154996;920.0467260276408,57.1318512736428;895.9133986304049,68.38540665573566;871.780071233169,79.63896203782853;847.6467438359331,90.8925174199214;823.5134164386972,102.14607280201426;799.3800890414612,113.39962818410707;775.2467616442253,124.65318356619989;751.1134342469894,135.90673894829268;726.9801068497535,147.1602943303855;702.8467794525176,158.4138497124783;678.7134520552817,169.6674050945711;670.6690095895364,169.42881487263574;694.8023369867723,158.17525949054294;718.9356643840082,146.92170410845011;743.0689917812441,135.66814872635732;767.20231917848,124.4145933442645;791.3356465757159,113.16103796217169;815.4689739729519,101.90748258007888;839.6023013701878,90.65392719798601;863.7356287674237,79.40037181589314;887.8689561646596,68.14681643380027;912.0022835618955,56.89326105170741;936.1356109591314,45.63970566961457;960.2689383563674,34.38615028752173;984.4022657536033,23.132594905428896;1008.5355931508392,27.12237025472856;1032.668920548075,38.37592563682141;1056.802247945311,49.62948101891424;1080.9355753425468,60.88303640100708;1105.0689027397827,72.13659178309996;1129.2022301370187,83.39014716519281;1153.3355575342546,94.64370254728568;1145.2911150685093,105.89725792937854;1121.1577876712734,117.15081331147135;1097.0244602740374,128.40436869356415;1072.8911328768015,139.65792407565698;1048.7578054795656,150.91147945774978;1024.6244780823297,162.16503483984258;1000.4911506850939,173.4185902219354;1008.5355931508392,165.67762974527147;1032.668920548075,154.42407436317865;1056.802247945311,143.17051898108585;1080.9355753425468,131.91696359899305;1105.0689027397827,120.66340821690024;1129.2022301370187,109.40985283480742;1153.3355575342546,98.15629745271458;1145.2911150685093,86.90274207062171;1121.1577876712734,75.64918668852886;1097.0244602740374,64.39563130643597;1072.8911328768015,53.14207592434313;1048.7578054795656,41.88852054225029;1024.6244780823297,30.634965160157453;1000.4911506850939,19.62;976.357823287858,30.87355538209284;952.224495890622,42.12711076418568;928.0911684933861,53.38066614627852;903.9578410961502,64.63422152837137;879.8245136989143,75.88777691046424;855.6911863016784,87.14133229255711;831.5578589044425,98.39488767464998;807.4245315072066,109.6484430567428;783.2912041099706,120.90199843883562;759.1578767127347,132.15555382092842;735.0245493154988,143.40910920302125;710.8912219182629,154.66266458511404;686.757894521027,165.91621996720684;662.624567123791,173.18;686.757894521027,161.9264446179072;710.8912219182629,150.67288923581438;735.0245493154988,139.41933385372158;759.1578767127347,128.16577847162876;783.2912041099706,116.91222308953596;807.4245315072066,105.65866770744316;831.5578589044425,94.40511232535029;855.6911863016784,83.15155694325743;879.8245136989143,71.89800156116456;903.9578410961502,60.64444617907169;928.0911684933861,49.39089079697885;952.224495890622,38.13733541488601;976.357823287858,26.883780032793176;1000.4911506850939,23.37118512736428;1024.6244780823297,34.62474050945712;1048.7578054795656,45.87829589154996;1072.8911328768015,57.1318512736428;1097.0244602740374,68.38540665573566;1121.1577876712734,79.63896203782853;1145.2911150685093,90.8925174199214;1153.3355575342546,102.14607280201426;1129.2022301370187,113.39962818410707;1105.0689027397827,124.65318356619989;1080.9355753425468,135.90673894829268;1056.802247945311,147.1602943303855;1032.668920548075,158.4138497124783;1008.5355931508392,169.6674050945711;1000.4911506850939,169.42881487263574;1024.6244780823297,158.17525949054294;1048.7578054795656,146.92170410845011;1072.8911328768015,135.66814872635732;1097.0244602740374,124.4145933442645;1121.1577876712734,113.16103796217169;1145.2911150685093,101.90748258007888;1153.3355575342546,90.65392719798601;1129.2022301370187,79.40037181589314;1105.0689027397827,68.14681643380027;1080.9355753425468,56.89326105170741;1056.802247945311,45.63970566961457;1032.668920548075,34.38615028752173;1008.5355931508392,23.132594905428896;984.4022657536033,27.12237025472856;960.2689383563674,38.37592563682141;936.1356109591314,49.62948101891424;912.0022835618955,60.88303640100708;887.8689561646596,72.13659178309996;863.7356287674237,83.39014716519281;839.6023013701878,94.64370254728568;815.4689739729519,105.89725792937854;791.3356465757159,117.15081331147135;767.20231917848,128.40436869356415;743.0689917812441,139.65792407565698;718.9356643840082,150.91147945774978;694.8023369867723,162.16503483984258;670.6690095895364,173.18;648.3194552853142,158.70390168579175;625.969900981092,144.22780337158346;603.6203466768699,129.7517050573752;581.2707923726476,115.27560674316692;558.9212380684255,100.79950842895863;536.5716837642034,86.3234101147503;514.2221294599811,71.84731180054197;491.872575155759,57.371213486333644;469.52302085153684,42.895115172125315;447.17346654731466,28.419016857916994;424.82391224309254,24.44536610473611;402.47435793887036,38.921464418944424;380.1248036346482,53.39756273315275;357.775249330426,67.87366104736108;335.4256950262038,82.34975936156941;313.0761407219817,96.82585767577774;290.7265864177595,111.30195598998604;268.3770321135373,125.77805430419431;246.02747780931517,140.2541526184026;223.67792350509302,154.73025093261086;201.32836920087084,169.20634924681912;180.0859626603216,162.00398991450834;159.39713000160882,145.23997478627084;138.70829734289606,128.47595965803333;118.01946468418328,111.71194452979583;97.33063202547049,94.9479294015583;76.64179936675771,78.18391427332074;55.95296670804494,61.41989914508318;35.264134049332164,44.65588401684565;14.575301390619387,27.8918688886081;14.964416329356387,28.00200756411877;35.653248988069166,44.766022692356316;56.34208164678194,61.53003782059385;77.03091430549472,78.2940529488314;97.71974696420749,95.05806807706897;118.40857962292027,111.8220832053065;139.09741228163304,128.586098333544;159.78624494034582,145.35011346178152;180.47507759905858,162.11412859001902;188.77634342010862,166.2064652839797;172.30247556583316,145.28586113591876;155.82860771155774,124.3652569878578;139.3547398572823,105.62;122.88087200300686,126.54060414806094;106.40700414873142,147.4612082961219;89.93313629445598,168.38181244418283;86.38434452029173,155.53447702109366;89.29809078618311,129.06619255273412;92.21183705207449,102.59790808437458;95.12558331796586,76.12962361601504;98.03932958385724,49.661339147655525;100.95307584974861,23.193054679296022;103.86682211563999,41.676903723632925;106.78056838153137,68.14518819199245;109.69431464742274,94.61347266035197;112.60806091331412,121.08175712871152;115.5218071792055,147.55004159707104;118.43555344509687,173.18;133.7004984210142,151.36162575070696;148.96544339693153,129.5432515014139;164.23038837284884,107.72487725212083;179.49533334876617,85.90650300282778;194.76027832468336,64.08812875353472;210.02522330060057,42.26975450424164;225.2901682765178,20.451380254948553;240.555113252435,37.801978541077574;255.8200582283522,59.62035279037065;271.0850032042694,81.43872703966372;286.34994818018663,103.25710128895678;301.61489315610385,125.07547553824983;316.87983813202106,146.8938497875429;332.1447831079383,168.71222403683595;353.1788152964469,165.3779566224056;377.097391091251,153.67489155601402;401.01596688605514,141.9718264896224;424.9345426808593,130.26876142323079;448.85311847566345,118.5656963568392;472.7716942704676,106.8626312904476;496.6902700652717,95.15956622405595;520.6088458600759,83.45650115766429;544.52742165488,71.75343609127262;568.4459974496841,60.05037102488097;592.3645732444883,48.3473059584893;616.2831490392924,36.64424089209764;640.2017248340966,24.941175825705983;664.1203006289007,25.471532533195827;688.0388764237049,37.174597599587486;711.9574522185092,48.877662665979145;735.8760280133138,60.5807277323708;759.7946038081184,72.28379279876246;783.713179602923,83.98685786515412;807.6317553977276,95.68992293154578;831.5503311925322,107.39298799793742;855.4689069873368,119.09605306432903;879.3874827821414,130.79911813072061;903.306058576946,142.50218319711223;927.2246343717507,154.20524826350385;951.1432101665553,165.90831332989544;975.0617859613599,177.61137839628702;998.9803617561645,189.31444346267864;583,144.8;606.9185757948042,133.0969349336084;630.8371515896083,121.39386986721681;654.7557273844125,109.6908048008252;678.6743031792166,97.98773973443357;702.5928789740207,86.28467466804192;726.5114547688253,74.58160960165026;750.4300305636299,62.87854453525859;774.3486063584345,51.175479468866925;798.2671821532391,39.472414402475266;822.1857579480437,27.769349336083607;846.1043337428483,21.57051084439861;870.0229095376529,33.27357591079027;893.9414853324575,44.97664097718193;917.8600611272622,56.67970604357359;941.7786369220668,68.38277110996523;965.6972127168714,80.0858361763569;989.615788511676,91.78890124274857;1013.5343643064806,103.49196630914022;1037.4529401012853,115.19503137553183;1061.37151589609,126.89809644192343;1085.2900916908945,138.60116150831504;1109.2086674856992,150.30422657470663;1105.4207121025977,162.00729164109822;1081.502136307793,173.18;1095.1422916876702,150.31067204282553;1108.782447067547,127.44134408565105;1122.4226024474242,104.57201612847658;1136.062757827301,81.70268817130216;1149.7029132071782,58.83336021412774;1161.3799999999999,35.96403225695329;1147.739844620123,23.431554659529073;1134.0996892402459,46.30088261670352;1120.459533860369,69.17021057387795;1106.8193784804919,92.03953853105237;1093.1792231006148,114.90886648822683;1079.5390677207379,137.7781944454013;1065.8989123408608,160.6475224025758;1064.849917886688,169.42881487263574;1088.983245283924,158.17525949054294;1113.1165726811598,146.92170410845011;1137.2499000783957,136.75322230895358;1119.2688938356366,125.49966692686078;1095.1355664384007,114.24611154476798;1071.0022390411648,102.99255616267516;1046.8689116439289,91.73900078058229;1022.7355842466931,80.48544539848942;998.6022568494571,69.23189001639656;974.4689294522212,57.97833463430369;950.3356020549853,46.72477925221085;926.2022746577494,35.47122387011801;902.0689472605135,24.217668488025176;877.9356198632776,25.246777691046418;853.8022924660416,36.50033307313926;829.6689650688057,47.7538884552321;805.5356376715698,59.00744383732494;781.4023102743339,70.26099921941781;757.268982877098,81.51455460151068;733.1356554798621,92.76810998360354;709.0023280826261,104.0216653656964;684.8690006853902,115.2752207477892;660.7356732881543,126.52877612988202;636.6023458909184,137.78233151197483;612.4690184936825,149.03588689406763;588.3356910964466,160.28944227616046;564.2023636992107,171.54299765825326;564.2023636992107,167.5532223089536;588.3356910964466,156.2996669268608;612.4690184936825,145.046111544768;636.6023458909184,133.79255616267517;660.7356732881543,122.53900078058237;684.8690006853902,111.28544539848956;709.0023280826261,100.03189001639674;733.1356554798621,88.77833463430395;757.268982877098,77.52477925221113;781.4023102743339,66.27122387011832;805.5356376715698,55.01766848802549;829.6689650688057,43.76411310593266;853.8022924660416,32.51055772383982;877.9356198632776,21.25700234174698;902.0689472605135,28.9979628184107;926.2022746577494,40.25151820050354;950.3356020549853,51.505073582596374;974.4689294522212,62.7586289646892;998.6022568494571,74.012184346782;1022.7355842466931,85.26573972887482;1046.8689116439289,96.51929511096763;1071.0022390411648,107.77285049306043;1095.1355664384007,119.02640587515324;1119.2688938356366,130.27996125724604;1143.4022212328725,141.53351663933887;1157.3577787671272,152.78707202143167;1158.6866636986178,164.0406274035245;1141.2688938356366,175.2941827856173;1151.7249689738314,156.36388534859168;1155.588681451573,136.1845477669017;1138.214725806292,116.00521018521167;1120.8407701610113,95.82587260352166;1103.4668145157304,75.64653502183165;1086.0928588704496,55.46719744014167;1068.7189032251688,35.28785985845169;1051.344947579888,22.983222930281663;1033.9709919346071,43.16256051197165;1016.5970362893264,63.341898093661634;999.2230806440456,83.52123567535163;981.8491249987648,103.70057325704164;964.4751693534839,123.87991083873165;947.1012137082031,144.05924842042165;929.7272580629223,164.23858600211165;909.2330348403596,167.027443127771;885.6185440405148,154.722329383313;862.0040532406703,142.417215638855;838.3895624408256,130.11210189439697;814.775071640981,117.80698814993896;791.1605808411363,105.50187440548095;767.5460900412917,93.19676066102294;743.931599241447,80.89164691656492;720.3171084416024,68.5865331721069;696.7026176417577,56.281419427648906;673.0881268419131,43.97630568319092;649.4736360420684,31.67119193873294;625.8591452422238,19.62;602.2446544423791,31.92511374445798;578.6301636425345,44.230227488915965;555.0156728426898,56.53534123337395;531.4011820428452,68.84045497783195;507.7866912430005,81.14556872228997;484.1722004431559,93.45068246674798;460.5577096433112,105.75579621120599;436.9432188434666,118.060909955664;413.32872804362194,130.366023700122;389.7142372437773,142.67113744458004;366.09974644393264,154.97625118903804;342.485255644088,167.28136493349604;318.87076484424335,179.58647867795406;295.65715416039274,162.19060483411172;272.52371949974093,149.00333063504576;249.39028483908913,135.81605643597982;226.25685017843733,122.62878223691386;203.12341551778553,109.44150803784791;179.9899808571337,96.254233838782;156.8565461964819,83.06695963971612;133.7231115358301,69.87968544065022;110.58967687517828,56.69241124158433;87.45624221452648,43.50513704251844;64.32280755387467,30.317862843452552;41.18937289322286,21.817879033177647;18.05593823257102,35.00515323224354;12.331144886883944,48.19242743130943;35.464579547535784,61.37970163037533;58.5980142081876,74.56697582944122;81.73144886883941,87.75425002850712;104.86488352949122,100.94152422757301;127.99831819014304,114.12879842663895;151.13175285079484,127.3160726257049;174.26518751144664,140.50334682477086;197.39862217209847,153.6906210238368;220.53205683275027,166.87789522290277;223.00274526189247,163.4574870414676;204.81068745952507,144.01246112440276;186.6186296571577,124.56743520733795;168.4265718547903,105.12240929027314;150.2345140524229,85.67738337320837;132.0424562500555,66.2323574561436;113.85039844768811,46.78733153907882;95.65834064532072,27.34230562201403;77.46628284295332,29.342512958532396;59.27422504058593,48.787538875597185;41.08216723821854,68.23256479266198;22.890109435851176,87.67759070972673;4.698051633483811,107.1226166267915;19.78004816863947,126.56764254385632;37.97210597100683,146.01266846092113;56.16416377337423,165.45769437798597;62.9687720479615,160.06457429162106;58.38593079476867,133.83372287486316;53.80308954157584,107.60287145810523;49.220248288383004,81.37202004134731;44.637407035190165,55.14116862458939;40.05456578199736,28.910317207831476;35.47172452880456,32.735425708378955;30.888883275611754,58.96627712513687;26.30604202241895,85.19712854189478;21.723200769226143,111.4279799586527;17.14035951603332,137.6588313754106;12.557518262840503,163.88968279216854;8.313690007248418,165.79928952111132;30.475830050738917,151.03786856333392;52.637970094229416,136.2764476055565;74.80011013771991,121.51502664777911;96.96225018121044,106.7536056900017;119.12439022470099,91.99218473222426;141.28653026819154,77.2307637744468;163.4486703116821,62.46934281666935;185.6108103551726,47.707921858891886;207.77295039866303,32.94650090111443;229.93509044215347,19.62;252.0972304856439,34.38142095777745;274.25937052913434,49.142841915554904;296.4215105726248,63.90426287333236;318.5836506161152,78.66568383110982;340.7457906596057,93.42710478888728;362.90793070309616,108.18852574666471;385.07007074658657,122.94994670444211;407.23221079007703,137.71136766221952;429.39435083356744,152.47278861999692;451.5564908770579,167.23420957777432;458.2868084403064,169.42881487263574;434.15348104307094,158.17525949054294;410.0201536458355,146.92170410845011;385.8868262486,135.66814872635732;361.7534988513646,124.4145933442645;337.620171454129,113.16103796217169;313.4868440568933,101.90748258007888;289.3535166596576,90.65392719798608;265.22018926242197,79.40037181589327;241.08686186518625,68.14681643380045;216.9535344679506,56.89326105170763;192.8202070707149,45.6397056696148;168.6868796734792,34.38615028752196;144.55355227624352,23.13259490542912;120.42022487900785,27.12237025472856;96.28689748177217,38.37592563682139;72.15357008453648,49.629481018914234;48.0202426873008,60.88303640100706;23.88691529006512,72.13659178309987;8.642221232872611,83.39014716519269;32.77554863010828,94.6437025472855;56.908876027343965,105.8972579293783;81.04220342457965,117.15081331147111;105.17553082181533,128.40436869356392;129.308858219051,139.65792407565672;153.44218561628668,150.91147945774955;177.57551301352237,162.16503483984235;201.70884041075806,173.18;186.20145860932035,151.53326561200444;170.69407680788257,129.88653122400885;155.18669500644475,108.23979683601327;139.6793132050069,86.59306244801765;124.17193140356909,64.94632806002201;108.66454960213126,43.29959367202639;93.15716780069344,21.652859284030782;77.64978599925561,37.658945323329675;62.14240419781778,59.30567971132528;46.63502239637996,80.95241409932092;31.127640594942154,102.59914848731657;15.62025879350435,124.24588287531213;7.204563633572968,145.89261726330773;22.711945435010776,167.5393516513033;16.12651114910378,159.87706571942616;10.497280776526463,139.9226642985654;28.129123106105858,119.96826287770463;45.76096543568525,100.01386145684388;63.39280776526462,80.05946003598316;81.02465009484399,60.105058615122466;98.65649242442335,40.150657194261754;116.28833475400272,20.196255773401035;133.92017708358208,29.054266429856547"/>
+	</circle><rect id="paddle" x="0" y="177.8" width="152" height="11" rx="3" fill="#000000">
+		<animateTransform attributeName="transform" type="translate"
+			calcMode="linear"
+			dur="179600ms" repeatCount="indefinite"
+			keyTimes="0;0.0006;0.0011;0.0017;0.0022;0.0045;0.005;0.0056;0.0061;0.0067;0.01;0.0106;0.0111;0.0117;0.0123;0.0128;0.0134;0.0139;0.0173;0.0178;0.0184;0.0189;0.0195;0.0201;0.0206;0.0212;0.0245;0.0251;0.0273;0.0279;0.0312;0.0318;0.0368;0.0373;0.0379;0.0384;0.039;0.0396;0.0401;0.0407;0.0412;0.0418;0.0423;0.0429;0.0435;0.0524;0.0529;0.0535;0.054;0.0557;0.0563;0.0568;0.0574;0.0579;0.0585;0.0591;0.0596;0.0618;0.0624;0.063;0.0635;0.0641;0.0713;0.0719;0.0724;0.073;0.0752;0.0758;0.0763;0.0769;0.0786;0.0791;0.0797;0.0802;0.0875;0.088;0.0958;0.0964;0.0969;0.0975;0.0981;0.0986;0.0997;0.1003;0.1008;0.1014;0.1019;0.1025;0.1031;0.1036;0.1042;0.1047;0.1086;0.1092;0.1097;0.1103;0.112;0.1125;0.1131;0.1136;0.1142;0.1148;0.1153;0.1159;0.1164;0.117;0.1175;0.1203;0.1209;0.1242;0.1248;0.1253;0.1265;0.127;0.1276;0.1287;0.1292;0.1298;0.1304;0.1315;0.132;0.1326;0.1331;0.1337;0.1398;0.1404;0.1409;0.1415;0.1421;0.1426;0.1432;0.1437;0.1443;0.1448;0.1454;0.146;0.1471;0.1476;0.1482;0.1487;0.1543;0.1549;0.1554;0.156;0.1565;0.1582;0.1588;0.1677;0.1682;0.1688;0.1694;0.1699;0.1705;0.171;0.1716;0.1721;0.1727;0.1733;0.1738;0.1744;0.1749;0.1755;0.176;0.1766;0.1805;0.1811;0.1816;0.1822;0.1827;0.1833;0.1889;0.1894;0.19;0.1905;0.1911;0.1916;0.1922;0.1928;0.1933;0.1978;0.1983;0.1989;0.1994;0.2;0.2006;0.2011;0.2017;0.2022;0.2028;0.2072;0.2078;0.2084;0.2089;0.2095;0.21;0.2106;0.2111;0.2117;0.2162;0.2167;0.2173;0.2178;0.2184;0.2189;0.2195;0.2201;0.2206;0.2284;0.229;0.2295;0.2301;0.2306;0.2312;0.2318;0.2323;0.2329;0.2334;0.234;0.2345;0.244;0.2446;0.2451;0.2457;0.2462;0.2468;0.2474;0.2479;0.2485;0.249;0.2518;0.2524;0.2529;0.2535;0.2574;0.2579;0.2585;0.2591;0.2596;0.2602;0.2607;0.2613;0.2618;0.2641;0.2646;0.273;0.2735;0.2741;0.2747;0.2752;0.2758;0.2763;0.2769;0.2774;0.278;0.2786;0.2791;0.2797;0.2802;0.2808;0.2875;0.288;0.2886;0.2891;0.2897;0.2903;0.2908;0.2914;0.2919;0.2925;0.293;0.2936;0.2942;0.2975;0.2981;0.2986;0.2997;0.3003;0.3064;0.307;0.3075;0.3081;0.3086;0.3109;0.3114;0.3192;0.3198;0.3203;0.3209;0.3214;0.322;0.3226;0.3242;0.3248;0.3253;0.3259;0.3265;0.327;0.3337;0.3343;0.3348;0.3354;0.3359;0.3365;0.337;0.3376;0.3382;0.3387;0.3393;0.3448;0.3454;0.346;0.3465;0.3471;0.3476;0.3482;0.3487;0.3493;0.3499;0.3504;0.351;0.3515;0.356;0.3565;0.3571;0.3577;0.3582;0.3588;0.3593;0.3599;0.3604;0.3638;0.3643;0.3649;0.3744;0.3749;0.3755;0.376;0.3766;0.3772;0.3777;0.3783;0.3788;0.3794;0.3799;0.3805;0.3811;0.3816;0.3822;0.3861;0.3866;0.3872;0.3877;0.3883;0.3889;0.3894;0.39;0.3928;0.3933;0.3961;0.3967;0.3972;0.3983;0.3989;0.3994;0.4;0.4006;0.4011;0.4017;0.4022;0.4078;0.4084;0.4089;0.4095;0.41;0.4145;0.415;0.4156;0.4162;0.4167;0.4173;0.4245;0.4251;0.4256;0.4262;0.4267;0.4273;0.4279;0.4284;0.429;0.4295;0.4306;0.4312;0.439;0.4396;0.4401;0.4407;0.4412;0.4418;0.4423;0.4429;0.4435;0.444;0.4446;0.4451;0.4457;0.4462;0.4468;0.4474;0.4479;0.454;0.4546;0.4552;0.4557;0.4563;0.4568;0.4574;0.4579;0.4585;0.4769;0.4774;0.478;0.4786;0.4791;0.4797;0.4802;0.4808;0.4813;0.4886;0.4891;0.4897;0.4903;0.4908;0.4914;0.4919;0.4925;0.493;0.4936;0.4942;0.4947;0.4953;0.4958;0.4964;0.4969;0.5031;0.5036;0.5042;0.5047;0.5097;0.5103;0.5109;0.5114;0.512;0.5125;0.5131;0.5136;0.5142;0.5214;0.522;0.5226;0.5231;0.5237;0.5242;0.5248;0.5253;0.5265;0.527;0.5276;0.5281;0.5287;0.5292;0.537;0.5376;0.5382;0.5387;0.5393;0.5398;0.5404;0.5409;0.5421;0.5426;0.5432;0.5443;0.5448;0.5487;0.5493;0.5499;0.5515;0.5521;0.5526;0.5571;0.5577;0.5582;0.5588;0.5593;0.5599;0.5649;0.5655;0.5766;0.5772;0.5777;0.5783;0.5788;0.5794;0.5799;0.5805;0.5811;0.5816;0.5822;0.5827;0.5833;0.5838;0.5844;0.5922;0.5928;0.5933;0.5939;0.5944;0.595;0.5955;0.5961;0.5967;0.5972;0.5978;0.5983;0.5994;0.6;0.6078;0.6084;0.6089;0.6095;0.61;0.6106;0.6111;0.6117;0.6123;0.6128;0.6134;0.6139;0.6145;0.615;0.6228;0.6234;0.624;0.6245;0.6251;0.6256;0.6262;0.6267;0.6273;0.6279;0.6284;0.629;0.6295;0.6301;0.6306;0.6384;0.639;0.6396;0.6401;0.6407;0.6412;0.6418;0.6423;0.6429;0.6435;0.644;0.6446;0.6457;0.6462;0.654;0.6546;0.6552;0.6557;0.6563;0.6568;0.6574;0.6579;0.6585;0.6591;0.6596;0.6602;0.6613;0.6618;0.6691;0.6696;0.6702;0.6708;0.6713;0.6719;0.6724;0.673;0.6735;0.6741;0.6747;0.6752;0.6758;0.6763;0.6769;0.6847;0.6852;0.6858;0.6864;0.6869;0.6875;0.688;0.6886;0.6891;0.6897;0.6903;0.6908;0.6919;0.6925;0.7003;0.7008;0.7014;0.7019;0.7025;0.7031;0.7036;0.7042;0.7047;0.7053;0.7058;0.7064;0.707;0.7075;0.7153;0.7159;0.7164;0.717;0.7175;0.7181;0.7187;0.7192;0.7198;0.7203;0.7209;0.7214;0.722;0.7226;0.7231;0.7309;0.7315;0.732;0.7326;0.7331;0.7337;0.7343;0.7348;0.7354;0.7359;0.7365;0.737;0.7382;0.7387;0.7465;0.7471;0.7476;0.7482;0.7487;0.7493;0.7499;0.7504;0.751;0.7515;0.7521;0.7526;0.7538;0.7543;0.7616;0.7621;0.7627;0.7632;0.7638;0.7643;0.7649;0.7655;0.766;0.7666;0.7671;0.7677;0.7682;0.7688;0.7694;0.7772;0.7777;0.7783;0.7788;0.7794;0.7799;0.7805;0.7811;0.7816;0.7822;0.7827;0.7833;0.7844;0.785;0.7928;0.7933;0.7939;0.7944;0.795;0.7955;0.7961;0.7972;0.7978;0.7983;0.7989;0.7994;0.8;0.8061;0.8067;0.8072;0.8078;0.8084;0.8089;0.8095;0.81;0.8106;0.8111;0.8117;0.8123;0.8173;0.8178;0.824;0.8245;0.8251;0.8256;0.8262;0.8368;0.8373;0.8379;0.8384;0.839;0.8396;0.8401;0.8407;0.8479;0.8485;0.849;0.8496;0.8501;0.8507;0.8513;0.8518;0.8524;0.8529;0.8535;0.854;0.8546;0.8552;0.8557;0.8563;0.8624;0.863;0.8635;0.8641;0.8646;0.8652;0.8691;0.8696;0.8735;0.8741;0.8747;0.8752;0.8758;0.8763;0.8852;0.8858;0.8864;0.8869;0.8875;0.888;0.8886;0.8891;0.8897;0.8903;0.8908;0.8914;0.8919;0.8925;0.893;0.9008;0.9014;0.9019;0.9025;0.9031;0.9036;0.9042;0.9047;0.9053;0.9058;0.9064;0.907;0.9075;0.9081;0.9086;0.9125;0.9131;0.9136;0.9142;0.9164;0.917;0.9237;0.9242;0.9248;0.9253;0.9259;0.9265;0.927;0.9276;0.9281;0.9287;0.9292;0.9298;0.9304;0.9309;0.9315;0.9376;0.9382;0.9387;0.9393;0.9415;0.9421;0.9432;0.9437;0.9487;0.9493;0.9499;0.9504;0.951;0.9515;0.9655;0.966;0.9666;0.9671;0.9677;0.9682;0.9688;0.9694;0.9699;0.9705;0.971;0.9716;0.9794;0.9799;0.9805;0.9811;0.9816;0.9822;0.9827;0.9833;0.9844;0.985;0.9911;0.9916;0.9922;0.9928;0.9933;1"
+			values="506,0;550,0;594,0;595.6457894736843,0;639.6457894736843,0;639.6457894736843,0;683.6457894736843,0;727.6457894736843,0;683.6457894736843,0;727.6457894736843,0;727.6457894736843,0;683.6457894736843,0;683.2771821251442,0;683.2771821251448,0;683.2771821251448,0;683.2771821251454,0;683.2771821251454,0;683.277182125146,0;683.277182125146,0;639.277182125146,0;595.277182125146,0;551.277182125146,0;507.27718212514606,0;463.27718212514606,0;419.27718212514606,0;375.4022899797677,0;375.4022899797677,0;370.3537398760809,0;370.3537398760809,0;370.3537398760812,0;370.3537398760812,0;326.3537398760812,0;326.3537398760812,0;370.3537398760812,0;414.3537398760812,0;458.3537398760812,0;414.3537398760812,0;370.3537398760812,0;326.3537398760812,0;282.3537398760812,0;238.3537398760812,0;194.3537398760812,0;150.3537398760812,0;106.3537398760812,0;80.56187750550367,0;80.56187750550367,0;124.56187750550367,0;168.56187750550367,0;166.42855010826932,0;166.42855010826932,0;122.42855010826932,0;78.42855010826932,0;34.42855010826932,0;13.584143259108515,0;13.584143259108203,0;13.584143259108203,0;13.58414325910789,0;13.58414325910789,0;13.584143259107577,0;13.584143259107577,0;57.58414325910758,0;76.1270697550107,0;76.1270697550107,0;120.1270697550107,0;164.1270697550107,0;208.1270697550107,0;208.1270697550107,0;164.1270697550107,0;120.1270697550107,0;105.85079805358035,0;105.85079805358035,0;61.85079805358035,0;17.85079805358035,0;0,0;0,0;26.959812798634687,0;26.959812798634687,0;70.95981279863469,0;114.95981279863469,0;158.9598127986347,0;202.9598127986347,0;207.77926659890642,0;207.77926659890642,0;251.77926659890642,0;295.7792665989064,0;339.7792665989064,0;383.7792665989064,0;427.7792665989064,0;471.7792665989064,0;515.7792665989064,0;544.4247198261044,0;544.4247198261049,0;544.4247198261049,0;588.4247198261049,0;544.4247198261049,0;500.42471982610493,0;500.42471982610493,0;544.4247198261049,0;588.4247198261049,0;632.4247198261049,0;676.4247198261049,0;720.4247198261049,0;676.4247198261049,0;632.4247198261049,0;676.4247198261049,0;720.4247198261049,0;744.5888182261228,0;744.5888182261228,0;777.3746622429239,0;777.3746622429239,0;821.3746622429239,0;865.3746622429239,0;865.3746622429239,0;909.3746622429239,0;933.7701257316253,0;933.7701257316253,0;889.7701257316253,0;845.7701257316253,0;821.319854271356,0;821.319854271356,0;777.319854271356,0;733.319854271356,0;704.5373017403222,0;704.5373017403216,0;704.5373017403216,0;660.5373017403216,0;616.5373017403216,0;616.5373017403216,0;572.5373017403216,0;528.5373017403216,0;484.5373017403216,0;440.5373017403216,0;396.5373017403216,0;352.5373017403216,0;308.5373017403216,0;286.59598308002904,0;286.59598308002904,0;286.5959830800295,0;286.5959830800295,0;286.59598308003035,0;286.59598308003035,0;242.59598308003038,0;198.59598308003038,0;160.61573734568404,0;160.61573734568435,0;160.61573734568435,0;160.61573734568466,0;160.61573734568466,0;116.61573734568466,0;72.61573734568466,0;28.615737345684664,0;0,0;0,0;44,0;88,0;132,0;176,0;220,0;264,0;308,0;352,0;383.36839966736954,0;383.36839966736954,0;427.36839966736954,0;427.36839966736954,0;383.36839966736954,0;339.36839966736954,0;295.36839966736954,0;272.8061059912626,0;272.8061059912623,0;272.8061059912623,0;316.8061059912623,0;289.47700192502725,0;289.47700192502725,0;289.4770019250269,0;289.4770019250266,0;289.47700192502634,0;289.477001925026,0;289.47700192502566,0;289.47700192502566,0;277.4103382264099,0;277.41033822640964,0;277.4103382264093,0;277.41033822640895,0;277.41033822640867,0;277.4103382264084,0;277.41033822640804,0;277.41033822640804,0;277.4103382264074,0;277.4103382264074,0;289.4770019250276,0;289.47700192502725,0;289.47700192502725,0;289.4770019250266,0;289.4770019250266,0;289.47700192502634,0;289.477001925026,0;289.47700192502566,0;289.47700192502566,0;277.41033822640964,0;277.4103382264093,0;277.4103382264093,0;277.41033822640895,0;277.41033822640867,0;277.4103382264084,0;277.41033822640804,0;277.4103382264077,0;277.4103382264077,0;233.41033822640773,0;189.41033822640773,0;145.41033822640773,0;103.71747065634412,0;103.71747065634412,0;103.7174706563438,0;103.7174706563435,0;103.7174706563435,0;103.71747065634318,0;103.71747065634287,0;103.71747065634256,0;103.71747065634256,0;147.71747065634256,0;191.71747065634256,0;235.71747065634256,0;279.7174706563426,0;323.7174706563426,0;367.7174706563426,0;411.7174706563426,0;455.7174706563426,0;499.7174706563426,0;499.7174706563426,0;455.7174706563426,0;411.7174706563426,0;369.7867613177457,0;369.7867613177457,0;325.7867613177457,0;281.7867613177457,0;237.7867613177457,0;193.7867613177457,0;149.7867613177457,0;105.78676131774569,0;61.786761317745686,0;30.339754218239023,0;30.339754218239023,0;30.33975421823871,0;30.33975421823871,0;74.33975421823871,0;118.33975421823871,0;162.3397542182387,0;206.3397542182387,0;250.3397542182387,0;294.3397542182387,0;338.3397542182387,0;382.3397542182387,0;426.3397542182387,0;470.3397542182387,0;514.3397542182387,0;558.3397542182387,0;580.9324981830481,0;580.9324981830474,0;580.9324981830474,0;624.9324981830474,0;668.9324981830474,0;712.9324981830474,0;756.9324981830474,0;800.9324981830474,0;844.9324981830474,0;888.9324981830474,0;844.9324981830474,0;800.9324981830474,0;756.9324981830474,0;712.9324981830474,0;668.9324981830474,0;668.9324981830474,0;624.9324981830474,0;586.8370667657048,0;586.8370667657048,0;586.837066765704,0;586.837066765704,0;542.837066765704,0;498.837066765704,0;454.837066765704,0;411.2758488020484,0;411.2758488020484,0;411.27584880204904,0;411.27584880204904,0;455.27584880204904,0;499.27584880204904,0;543.275848802049,0;587.275848802049,0;631.275848802049,0;651.7237457153262,0;651.7237457153262,0;695.7237457153262,0;739.7237457153262,0;783.7237457153262,0;827.7237457153262,0;871.7237457153262,0;871.7237457153262,0;827.7237457153262,0;783.7237457153262,0;827.7237457153262,0;871.7237457153262,0;915.7237457153262,0;871.7237457153262,0;827.7237457153262,0;783.7237457153262,0;757.3161043541795,0;757.3161043541807,0;757.3161043541807,0;801.3161043541807,0;845.3161043541807,0;889.3161043541807,0;933.3161043541807,0;968.0857591172422,0;968.0857591172414,0;968.0857591172414,0;924.0857591172414,0;880.0857591172414,0;836.0857591172414,0;792.0857591172414,0;748.0857591172414,0;748.0857591172414,0;704.0857591172414,0;660.0857591172414,0;616.0857591172414,0;572.0857591172414,0;528.0857591172414,0;484.0857591172415,0;440.0857591172415,0;396.0857591172415,0;396.0857591172415,0;381.47250935367913,0;381.4725093536785,0;381.4725093536785,0;425.4725093536785,0;469.4725093536785,0;513.4725093536786,0;557.4725093536786,0;601.4725093536786,0;645.4725093536786,0;689.4725093536786,0;704.8530036309871,0;704.853003630988,0;704.853003630989,0;704.853003630989,0;704.8530036309899,0;704.8530036309909,0;704.8530036309918,0;704.8530036309918,0;660.8530036309918,0;628.7569643410171,0;628.7569643410163,0;628.7569643410163,0;628.7569643410156,0;628.7569643410156,0;628.7569643410146,0;628.7569643410146,0;672.7569643410146,0;672.7569643410146,0;716.7569643410146,0;760.7569643410146,0;760.7569643410146,0;804.7569643410146,0;848.7569643410146,0;892.7569643410146,0;936.7569643410146,0;936.7569643410146,0;892.7569643410146,0;886.4001864775234,0;886.4001864775234,0;930.4001864775234,0;974.4001864775234,0;976.9008764809264,0;976.9008764809272,0;976.9008764809272,0;932.9008764809272,0;888.9008764809272,0;844.9008764809272,0;800.9008764809272,0;759.9890178428454,0;759.9890178428454,0;803.9890178428454,0;847.9890178428454,0;891.9890178428454,0;926.4016228290161,0;926.4016228290161,0;926.4016228290167,0;926.4016228290167,0;926.4016228290172,0;926.4016228290179,0;926.4016228290179,0;926.4016228290186,0;926.4016228290186,0;882.4016228290186,0;838.4016228290186,0;794.4016228290186,0;750.4016228290186,0;706.4016228290186,0;662.4016228290186,0;618.4016228290186,0;574.4016228290186,0;530.4016228290186,0;486.40162282901855,0;442.40162282901855,0;398.40162282901855,0;354.40162282901855,0;310.40162282901855,0;266.40162282901855,0;222.40162282901855,0;222.40162282901855,0;178.40162282901855,0;134.40162282901855,0;90.40162282901855,0;46.40162282901855,0;2.4016228290185495,0;0,0;44,0;0,0;0,0;44,0;88,0;132,0;176,0;220,0;264,0;278.39608761623293,0;278.3960876162332,0;278.3960876162332,0;322.3960876162332,0;366.3960876162332,0;410.3960876162332,0;454.3960876162332,0;498.3960876162332,0;542.3960876162332,0;586.3960876162332,0;630.3960876162332,0;674.3960876162332,0;718.3960876162332,0;762.3960876162332,0;806.3960876162332,0;850.3960876162332,0;894.3960876162332,0;911.2608089166539,0;911.2608089166539,0;955.2608089166539,0;999.2608089166539,0;1012,0;1012,0;968,0;924,0;880,0;836,0;792,0;772.8027193683246,0;772.8027193683251,0;772.8027193683258,0;772.8027193683258,0;728.8027193683258,0;684.8027193683258,0;640.8027193683258,0;596.8027193683258,0;552.8027193683258,0;508.8027193683258,0;483.3841521632537,0;483.3841521632537,0;483.3841521632531,0;483.3841521632531,0;483.38415216325245,0;483.38415216325245,0;483.3841521632518,0;483.3841521632518,0;527.3841521632519,0;571.3841521632519,0;615.3841521632519,0;659.3841521632519,0;703.3841521632519,0;747.3841521632519,0;787.8163921698952,0;787.8163921698952,0;787.8163921698945,0;787.8163921698937,0;787.8163921698937,0;787.816392169893,0;787.816392169893,0;831.816392169893,0;825.7969792590678,0;825.7969792590678,0;825.7969792590684,0;825.7969792590692,0;825.7969792590692,0;869.7969792590692,0;879.105168557493,0;879.1051685574922,0;879.1051685574914,0;879.1051685574906,0;879.1051685574906,0;836.7900701242008,0;836.7900701242008,0;792.7900701242008,0;748.7900701242008,0;704.7900701242008,0;660.7900701242008,0;616.7900701242008,0;572.7900701242008,0;528.7900701242008,0;507.27304599889044,0;507.27304599889044,0;507.2730459988898,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.095187094448,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.2730459988898,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.095187094448,0;837.0951870944473,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.27304599889044,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.0951870944473,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.27304599889044,0;507.2730459988898,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.095187094448,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.2730459988898,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.095187094448,0;837.0951870944473,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.27304599889044,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.0951870944473,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.0951870944461,0;617.0951870944461,0;573.0951870944461,0;529.0951870944461,0;507.27304599889044,0;507.27304599889044,0;507.2730459988898,0;507.2730459988898,0;507.2730459988892,0;507.2730459988892,0;507.27304599888856,0;507.27304599888856,0;551.2730459988886,0;595.2730459988886,0;639.2730459988886,0;683.2730459988886,0;727.2730459988886,0;771.2730459988886,0;815.2730459988886,0;837.095187094448,0;837.095187094448,0;837.0951870944473,0;837.0951870944467,0;837.0951870944467,0;837.0951870944461,0;837.0951870944461,0;793.0951870944461,0;749.0951870944461,0;705.0951870944461,0;661.2730459988911,0;661.2730459988911,0;661.2730459988904,0;661.2730459988904,0;661.2730459988898,0;661.2730459988898,0;661.2730459988892,0;661.2730459988892,0;661.2730459988886,0;661.2730459988886,0;617.2730459988886,0;573.2730459988886,0;529.2730459988886,0;485.27304599888856,0;441.27304599888856,0;397.27304599888856,0;353.27304599888856,0;309.27304599888856,0;265.27304599888856,0;221.27304599888856,0;177.27304599888856,0;177.27304599888856,0;162.5419258907817,0;162.5419258907817,0;118.5419258907817,0;74.5419258907817,0;30.54192589078169,0;0,0;0,0;44,0;88,0;132,0;176,0;184.50292869871993,0;184.50292869871993,0;184.50292869871961,0;184.50292869871961,0;228.50292869871961,0;272.50292869871964,0;316.50292869871964,0;360.50292869871964,0;404.50292869871964,0;448.50292869871964,0;492.50292869871964,0;536.5029286987196,0;580.5029286987196,0;624.5029286987196,0;668.5029286987196,0;712.5029286987196,0;756.5029286987196,0;800.5029286987196,0;821.4472884001957,0;821.4472884001957,0;865.4472884001957,0;909.4472884001957,0;953.4472884001957,0;997.4472884001957,0;1012,0;1012,0;968,0;968,0;924,0;901.6685085433862,0;901.6685085433862,0;901.6685085433869,0;901.6685085433875,0;901.6685085433875,0;857.6685085433875,0;813.6685085433875,0;769.6685085433875,0;725.6685085433875,0;681.6685085433875,0;637.6685085433875,0;593.6685085433875,0;549.6685085433875,0;505.6685085433875,0;461.6685085433875,0;417.6685085433875,0;396.7841788756908,0;396.7841788756908,0;396.7841788756902,0;396.7841788756902,0;440.7841788756902,0;484.7841788756902,0;528.7841788756903,0;572.7841788756903,0;616.7841788756903,0;660.7841788756903,0;704.7841788756903,0;748.7841788756903,0;792.7841788756903,0;836.7841788756903,0;880.7841788756903,0;924.7841788756903,0;968.7841788756903,0;1012,0;1012,0;968,0;924,0;918.0511857274059,0;918.0511857274059,0;918.0511857274066,0;918.0511857274066,0;874.0511857274066,0;830.0511857274066,0;786.0511857274066,0;742.0511857274066,0;698.0511857274066,0;654.0511857274066,0;610.0511857274066,0;566.0511857274066,0;522.0511857274066,0;478.05118572740656,0;434.05118572740656,0;390.05118572740656,0;346.05118572740656,0;309.3846027153283,0;309.3846027153283,0;265.3846027153283,0;221.3846027153283,0;206.14773973392,0;206.14773973392,0;206.14773973391956,0;206.14773973391956,0;206.1477397339192,0;206.1477397339192,0;162.1477397339192,0;118.14773973391918,0;74.14773973391918,0;30.14773973391918,0;0,0;0,0;44,0;88,0;132,0;176,0;220,0;264,0;308,0;352,0;396,0;440,0;467.41949808194113,0;467.41949808194113,0;423.41949808194113,0;379.41949808194113,0;335.41949808194113,0;291.41949808194113,0;247.41949808194113,0;203.41949808194113,0;166.90154627123925,0;166.90154627123925,0;166.90154627123968,0;166.90154627123968,0;122.90154627123968,0;78.90154627123968,0;34.901546271239674,0;0,0;0,0"/>
+	</rect></svg>
